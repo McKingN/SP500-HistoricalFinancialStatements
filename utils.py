@@ -133,6 +133,8 @@ def process_financial_data(financial_data, ticker):
     for col in combined_df.columns:
         if col != "fiscalDateEnding":
             combined_df[col] = pd.to_numeric(combined_df[col], errors="coerce")
+    
+    combined_df = combined_df.drop_duplicates(subset=["fiscalDateEnding"])
 
     # Create a dictionary with fiscalDateEnding as keys
     combined_data = combined_df.set_index("fiscalDateEnding").to_dict(orient="index")
