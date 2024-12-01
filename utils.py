@@ -173,7 +173,7 @@ def aggregate_financial_data(input_json_path, api_key, output_json_path, outDir)
 
     print(f"Aggregated financial data saved to {output_json_path}")
 
-def main(api, components_dir="data\FilteredSP500_components_splitted", results_dir="data\SP500_components_CombinedStatements", saveStockStatementsDir="data\SP500_components_statements"):
+def main(api, components_dir="./data/FilteredSP500_components_splitted", results_dir="./data/SP500_components_CombinedStatements", saveStockStatementsDir="./data/SP500_components_statements"):
     inputFileName = verify_and_find_next_json(results_dir)
     inputFilePath = os.path.join(components_dir, inputFileName)
     outputFilePath = os.path.join(results_dir, inputFileName)
