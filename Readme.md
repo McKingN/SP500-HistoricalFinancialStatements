@@ -11,8 +11,8 @@ This project allows you to fetch historical financial data for companies listed 
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/McKingN/StockOptions-Pricing-With-Binomial-Tree-Model-in-Cpp.git
-   cd StockOptions-Pricing-With-Binomial-Tree-Model-in-Cpp
+   git clone https://github.com/McKingN/SP500-HistoricalFinancialStatements.git
+   cd SP500-HistoricalFinancialStatements
    ```
 
 2. Install the required dependencies:
