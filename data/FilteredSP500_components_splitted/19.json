@@ -1,0 +1,74 @@
+{
+    "EA": {
+        "Security": "Electronic Arts",
+        "GICS Sector": "Communication Services",
+        "GICS Sub-Industry": "Interactive Home Entertainment",
+        "Headquarters Location": "Redwood City, California",
+        "Date added": "2002-07-22",
+        "CIK": 712515,
+        "Founded": "1982"
+    },
+    "ELV": {
+        "Security": "Elevance Health",
+        "GICS Sector": "Health Care",
+        "GICS Sub-Industry": "Managed Health Care",
+        "Headquarters Location": "Indianapolis, Indiana",
+        "Date added": "2002-07-25",
+        "CIK": 1156039,
+        "Founded": "2014 (1946)"
+    },
+    "EMR": {
+        "Security": "Emerson Electric",
+        "GICS Sector": "Industrials",
+        "GICS Sub-Industry": "Electrical Components & Equipment",
+        "Headquarters Location": "Ferguson, Missouri",
+        "Date added": "1965-03-31",
+        "CIK": 32604,
+        "Founded": "1890"
+    },
+    "ETR": {
+        "Security": "Entergy",
+        "GICS Sector": "Utilities",
+        "GICS Sub-Industry": "Electric Utilities",
+        "Headquarters Location": "New Orleans, Louisiana",
+        "Date added": "1957-03-04",
+        "CIK": 65984,
+        "Founded": "1913"
+    },
+    "EOG": {
+        "Security": "EOG Resources",
+        "GICS Sector": "Energy",
+        "GICS Sub-Industry": "Oil & Gas Exploration & Production",
+        "Headquarters Location": "Houston, Texas",
+        "Date added": "2000-11-02",
+        "CIK": 821189,
+        "Founded": "1999"
+    },
+    "EFX": {
+        "Security": "Equifax",
+        "GICS Sector": "Industrials",
+        "GICS Sub-Industry": "Research & Consulting Services",
+        "Headquarters Location": "Atlanta, Georgia",
+        "Date added": "1997-06-19",
+        "CIK": 33185,
+        "Founded": "1899"
+    },
+    "EQIX": {
+        "Security": "Equinix",
+        "GICS Sector": "Real Estate",
+        "GICS Sub-Industry": "Data Center REITs",
+        "Headquarters Location": "Redwood City, California",
+        "Date added": "2015-03-20",
+        "CIK": 1101239,
+        "Founded": "1998"
+    },
+    "EQR": {
+        "Security": "Equity Residential",
+        "GICS Sector": "Real Estate",
+        "GICS Sub-Industry": "Multi-Family Residential REITs",
+        "Headquarters Location": "Chicago, Illinois",
+        "Date added": "2001-12-03",
+        "CIK": 906107,
+        "Founded": "1969"
+    }
+}

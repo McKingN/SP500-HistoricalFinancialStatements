@@ -1,0 +1,74 @@
+{
+    "EXR": {
+        "Security": "Extra Space Storage",
+        "GICS Sector": "Real Estate",
+        "GICS Sub-Industry": "Self-Storage REITs",
+        "Headquarters Location": "Salt Lake City, Utah",
+        "Date added": "2016-01-19",
+        "CIK": 1289490,
+        "Founded": "1977"
+    },
+    "XOM": {
+        "Security": "ExxonMobil",
+        "GICS Sector": "Energy",
+        "GICS Sub-Industry": "Integrated Oil & Gas",
+        "Headquarters Location": "Irving, Texas",
+        "Date added": "1957-03-04",
+        "CIK": 34088,
+        "Founded": "1999"
+    },
+    "FFIV": {
+        "Security": "F5, Inc.",
+        "GICS Sector": "Information Technology",
+        "GICS Sub-Industry": "Communications Equipment",
+        "Headquarters Location": "Seattle, Washington",
+        "Date added": "2010-12-20",
+        "CIK": 1048695,
+        "Founded": "1996"
+    },
+    "FAST": {
+        "Security": "Fastenal",
+        "GICS Sector": "Industrials",
+        "GICS Sub-Industry": "Trading Companies & Distributors",
+        "Headquarters Location": "Winona, Minnesota",
+        "Date added": "2008-09-15",
+        "CIK": 815556,
+        "Founded": "1967"
+    },
+    "FRT": {
+        "Security": "Federal Realty Investment Trust",
+        "GICS Sector": "Real Estate",
+        "GICS Sub-Industry": "Retail REITs",
+        "Headquarters Location": "Rockville, Maryland",
+        "Date added": "2016-02-01",
+        "CIK": 34903,
+        "Founded": "1962"
+    },
+    "FDX": {
+        "Security": "FedEx",
+        "GICS Sector": "Industrials",
+        "GICS Sub-Industry": "Air Freight & Logistics",
+        "Headquarters Location": "Memphis, Tennessee",
+        "Date added": "1980-12-31",
+        "CIK": 1048911,
+        "Founded": "1971"
+    },
+    "FIS": {
+        "Security": "Fidelity National Information Services",
+        "GICS Sector": "Financials",
+        "GICS Sub-Industry": "Transaction & Payment Processing Services",
+        "Headquarters Location": "Jacksonville, Florida",
+        "Date added": "2006-11-10",
+        "CIK": 1136893,
+        "Founded": "1968"
+    },
+    "FITB": {
+        "Security": "Fifth Third Bancorp",
+        "GICS Sector": "Financials",
+        "GICS Sub-Industry": "Regional Banks",
+        "Headquarters Location": "Cincinnati, Ohio",
+        "Date added": "1996-03-29",
+        "CIK": 35527,
+        "Founded": "1858"
+    }
+}

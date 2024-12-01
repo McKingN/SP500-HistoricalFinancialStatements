@@ -1,0 +1,74 @@
+{
+    "CPB": {
+        "Security": "Campbell Soup Company",
+        "GICS Sector": "Consumer Staples",
+        "GICS Sub-Industry": "Packaged Foods & Meats",
+        "Headquarters Location": "Camden, New Jersey",
+        "Date added": "1957-03-04",
+        "CIK": 16732,
+        "Founded": "1869"
+    },
+    "COF": {
+        "Security": "Capital One",
+        "GICS Sector": "Financials",
+        "GICS Sub-Industry": "Consumer Finance",
+        "Headquarters Location": "Tysons Corner, Virginia",
+        "Date added": "1998-07-01",
+        "CIK": 927628,
+        "Founded": "1994"
+    },
+    "CAH": {
+        "Security": "Cardinal Health",
+        "GICS Sector": "Health Care",
+        "GICS Sub-Industry": "Health Care Distributors",
+        "Headquarters Location": "Dublin, Ohio",
+        "Date added": "1997-05-27",
+        "CIK": 721371,
+        "Founded": "1971"
+    },
+    "KMX": {
+        "Security": "CarMax",
+        "GICS Sector": "Consumer Discretionary",
+        "GICS Sub-Industry": "Automotive Retail",
+        "Headquarters Location": "Richmond, Virginia",
+        "Date added": "2010-06-28",
+        "CIK": 1170010,
+        "Founded": "1993"
+    },
+    "CCL": {
+        "Security": "Carnival",
+        "GICS Sector": "Consumer Discretionary",
+        "GICS Sub-Industry": "Hotels, Resorts & Cruise Lines",
+        "Headquarters Location": "Miami, Florida",
+        "Date added": "1998-12-22",
+        "CIK": 815097,
+        "Founded": "1972"
+    },
+    "CAT": {
+        "Security": "Caterpillar Inc.",
+        "GICS Sector": "Industrials",
+        "GICS Sub-Industry": "Construction Machinery & Heavy Transportation Equipment",
+        "Headquarters Location": "Irving, Texas",
+        "Date added": "1957-03-04",
+        "CIK": 18230,
+        "Founded": "1925"
+    },
+    "CBOE": {
+        "Security": "Cboe Global Markets",
+        "GICS Sector": "Financials",
+        "GICS Sub-Industry": "Financial Exchanges & Data",
+        "Headquarters Location": "Chicago, Illinois",
+        "Date added": "2017-03-01",
+        "CIK": 1374310,
+        "Founded": "1973"
+    },
+    "CBRE": {
+        "Security": "CBRE Group",
+        "GICS Sector": "Real Estate",
+        "GICS Sub-Industry": "Real Estate Services",
+        "Headquarters Location": "Dallas, Texas",
+        "Date added": "2006-11-10",
+        "CIK": 1138118,
+        "Founded": "1906"
+    }
+}

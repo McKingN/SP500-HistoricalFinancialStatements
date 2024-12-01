@@ -1,0 +1,74 @@
+{
+    "WEC": {
+        "Security": "WEC Energy Group",
+        "GICS Sector": "Utilities",
+        "GICS Sub-Industry": "Electric Utilities",
+        "Headquarters Location": "Milwaukee, Wisconsin",
+        "Date added": "2008-10-31",
+        "CIK": 783325,
+        "Founded": "1896"
+    },
+    "WFC": {
+        "Security": "Wells Fargo",
+        "GICS Sector": "Financials",
+        "GICS Sub-Industry": "Diversified Banks",
+        "Headquarters Location": "San Francisco, California",
+        "Date added": "1976-06-30",
+        "CIK": 72971,
+        "Founded": "1852"
+    },
+    "WELL": {
+        "Security": "Welltower",
+        "GICS Sector": "Real Estate",
+        "GICS Sub-Industry": "Health Care REITs",
+        "Headquarters Location": "Toledo, Ohio",
+        "Date added": "2009-01-30",
+        "CIK": 766704,
+        "Founded": "1970"
+    },
+    "WDC": {
+        "Security": "Western Digital",
+        "GICS Sector": "Information Technology",
+        "GICS Sub-Industry": "Technology Hardware, Storage & Peripherals",
+        "Headquarters Location": "San Jose, California",
+        "Date added": "2009-07-01",
+        "CIK": 106040,
+        "Founded": "1970"
+    },
+    "WY": {
+        "Security": "Weyerhaeuser",
+        "GICS Sector": "Real Estate",
+        "GICS Sub-Industry": "Timber REITs",
+        "Headquarters Location": "Seattle, Washington",
+        "Date added": "1979-10-01",
+        "CIK": 106535,
+        "Founded": "1900"
+    },
+    "WMB": {
+        "Security": "Williams Companies",
+        "GICS Sector": "Energy",
+        "GICS Sub-Industry": "Oil & Gas Storage & Transportation",
+        "Headquarters Location": "Tulsa, Oklahoma",
+        "Date added": "1975-03-31",
+        "CIK": 107263,
+        "Founded": "1908"
+    },
+    "WTW": {
+        "Security": "Willis Towers Watson",
+        "GICS Sector": "Financials",
+        "GICS Sub-Industry": "Insurance Brokers",
+        "Headquarters Location": "London, United Kingdom",
+        "Date added": "2016-01-05",
+        "CIK": 1140536,
+        "Founded": "2016"
+    },
+    "WYNN": {
+        "Security": "Wynn Resorts",
+        "GICS Sector": "Consumer Discretionary",
+        "GICS Sub-Industry": "Casinos & Gaming",
+        "Headquarters Location": "Paradise, Nevada",
+        "Date added": "2008-11-14",
+        "CIK": 1174922,
+        "Founded": "2002"
+    }
+}

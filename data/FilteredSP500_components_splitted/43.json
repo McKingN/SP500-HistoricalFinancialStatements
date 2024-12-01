@@ -1,0 +1,74 @@
+{
+    "RL": {
+        "Security": "Ralph Lauren Corporation",
+        "GICS Sector": "Consumer Discretionary",
+        "GICS Sub-Industry": "Apparel, Accessories & Luxury Goods",
+        "Headquarters Location": "New York City, New York",
+        "Date added": "2007-02-02",
+        "CIK": 1037038,
+        "Founded": "1967"
+    },
+    "RJF": {
+        "Security": "Raymond James Financial",
+        "GICS Sector": "Financials",
+        "GICS Sub-Industry": "Investment Banking & Brokerage",
+        "Headquarters Location": "St. Petersburg, Florida",
+        "Date added": "2017-03-20",
+        "CIK": 720005,
+        "Founded": "1962"
+    },
+    "RTX": {
+        "Security": "RTX Corporation",
+        "GICS Sector": "Industrials",
+        "GICS Sub-Industry": "Aerospace & Defense",
+        "Headquarters Location": "Waltham, Massachusetts",
+        "Date added": "1957-03-04",
+        "CIK": 101829,
+        "Founded": "1922"
+    },
+    "O": {
+        "Security": "Realty Income",
+        "GICS Sector": "Real Estate",
+        "GICS Sub-Industry": "Retail REITs",
+        "Headquarters Location": "San Diego, California",
+        "Date added": "2015-04-07",
+        "CIK": 726728,
+        "Founded": "1969"
+    },
+    "REG": {
+        "Security": "Regency Centers",
+        "GICS Sector": "Real Estate",
+        "GICS Sub-Industry": "Retail REITs",
+        "Headquarters Location": "Jacksonville, Florida",
+        "Date added": "2017-03-02",
+        "CIK": 910606,
+        "Founded": "1963"
+    },
+    "REGN": {
+        "Security": "Regeneron Pharmaceuticals",
+        "GICS Sector": "Health Care",
+        "GICS Sub-Industry": "Biotechnology",
+        "Headquarters Location": "Tarrytown, New York",
+        "Date added": "2013-05-01",
+        "CIK": 872589,
+        "Founded": "1988"
+    },
+    "RF": {
+        "Security": "Regions Financial Corporation",
+        "GICS Sector": "Financials",
+        "GICS Sub-Industry": "Regional Banks",
+        "Headquarters Location": "Birmingham, Alabama",
+        "Date added": "1998-08-28",
+        "CIK": 1281761,
+        "Founded": "1971"
+    },
+    "RSG": {
+        "Security": "Republic Services",
+        "GICS Sector": "Industrials",
+        "GICS Sub-Industry": "Environmental & Facilities Services",
+        "Headquarters Location": "Phoenix, Arizona",
+        "Date added": "2008-12-05",
+        "CIK": 1060391,
+        "Founded": "1998 (1981)"
+    }
+}

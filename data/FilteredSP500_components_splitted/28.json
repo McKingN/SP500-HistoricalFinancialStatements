@@ -1,0 +1,74 @@
+{
+    "ICE": {
+        "Security": "Intercontinental Exchange",
+        "GICS Sector": "Financials",
+        "GICS Sub-Industry": "Financial Exchanges & Data",
+        "Headquarters Location": "Atlanta, Georgia",
+        "Date added": "2007-09-26",
+        "CIK": 1571949,
+        "Founded": "2000"
+    },
+    "IFF": {
+        "Security": "International Flavors & Fragrances",
+        "GICS Sector": "Materials",
+        "GICS Sub-Industry": "Specialty Chemicals",
+        "Headquarters Location": "New York City, New York",
+        "Date added": "1976-03-31",
+        "CIK": 51253,
+        "Founded": "1958 (1889)"
+    },
+    "IP": {
+        "Security": "International Paper",
+        "GICS Sector": "Materials",
+        "GICS Sub-Industry": "Paper & Plastic Packaging Products & Materials",
+        "Headquarters Location": "Memphis, Tennessee",
+        "Date added": "1957-03-04",
+        "CIK": 51434,
+        "Founded": "1898"
+    },
+    "IPG": {
+        "Security": "Interpublic Group of Companies (The)",
+        "GICS Sector": "Communication Services",
+        "GICS Sub-Industry": "Advertising",
+        "Headquarters Location": "New York City, New York",
+        "Date added": "1992-10-01",
+        "CIK": 51644,
+        "Founded": "1961 (1930)"
+    },
+    "INTU": {
+        "Security": "Intuit",
+        "GICS Sector": "Information Technology",
+        "GICS Sub-Industry": "Application Software",
+        "Headquarters Location": "Mountain View, California",
+        "Date added": "2000-12-05",
+        "CIK": 896878,
+        "Founded": "1983"
+    },
+    "ISRG": {
+        "Security": "Intuitive Surgical",
+        "GICS Sector": "Health Care",
+        "GICS Sub-Industry": "Health Care Equipment",
+        "Headquarters Location": "Sunnyvale, California",
+        "Date added": "2008-06-02",
+        "CIK": 1035267,
+        "Founded": "1995"
+    },
+    "IVZ": {
+        "Security": "Invesco",
+        "GICS Sector": "Financials",
+        "GICS Sub-Industry": "Asset Management & Custody Banks",
+        "Headquarters Location": "Atlanta, Georgia",
+        "Date added": "2008-08-21",
+        "CIK": 914208,
+        "Founded": "1935"
+    },
+    "IQV": {
+        "Security": "IQVIA",
+        "GICS Sector": "Health Care",
+        "GICS Sub-Industry": "Life Sciences Tools & Services",
+        "Headquarters Location": "Durham, North Carolina",
+        "Date added": "2017-08-29",
+        "CIK": 1478242,
+        "Founded": "1982"
+    }
+}

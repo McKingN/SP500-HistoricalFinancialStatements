@@ -1,0 +1,74 @@
+{
+    "MTB": {
+        "Security": "M&T Bank",
+        "GICS Sector": "Financials",
+        "GICS Sub-Industry": "Regional Banks",
+        "Headquarters Location": "Buffalo, New York",
+        "Date added": "2004-02-23",
+        "CIK": 36270,
+        "Founded": "1856"
+    },
+    "MPC": {
+        "Security": "Marathon Petroleum",
+        "GICS Sector": "Energy",
+        "GICS Sub-Industry": "Oil & Gas Refining & Marketing",
+        "Headquarters Location": "Findlay, Ohio",
+        "Date added": "2011-07-01",
+        "CIK": 1510295,
+        "Founded": "2009 (1887)"
+    },
+    "MKTX": {
+        "Security": "MarketAxess",
+        "GICS Sector": "Financials",
+        "GICS Sub-Industry": "Financial Exchanges & Data",
+        "Headquarters Location": "New York City, New York",
+        "Date added": "2019-07-01",
+        "CIK": 1278021,
+        "Founded": "2000"
+    },
+    "MAR": {
+        "Security": "Marriott International",
+        "GICS Sector": "Consumer Discretionary",
+        "GICS Sub-Industry": "Hotels, Resorts & Cruise Lines",
+        "Headquarters Location": "Bethesda, Maryland",
+        "Date added": "1998-05-29",
+        "CIK": 1048286,
+        "Founded": "1927"
+    },
+    "MMC": {
+        "Security": "Marsh McLennan",
+        "GICS Sector": "Financials",
+        "GICS Sub-Industry": "Insurance Brokers",
+        "Headquarters Location": "New York City, New York",
+        "Date added": "1987-08-31",
+        "CIK": 62709,
+        "Founded": "1905"
+    },
+    "MLM": {
+        "Security": "Martin Marietta Materials",
+        "GICS Sector": "Materials",
+        "GICS Sub-Industry": "Construction Materials",
+        "Headquarters Location": "Raleigh, North Carolina",
+        "Date added": "2014-07-02",
+        "CIK": 916076,
+        "Founded": "1993"
+    },
+    "MAS": {
+        "Security": "Masco",
+        "GICS Sector": "Industrials",
+        "GICS Sub-Industry": "Building Products",
+        "Headquarters Location": "Livonia, Michigan",
+        "Date added": "1981-06-30",
+        "CIK": 62996,
+        "Founded": "1929"
+    },
+    "MA": {
+        "Security": "Mastercard",
+        "GICS Sector": "Financials",
+        "GICS Sub-Industry": "Transaction & Payment Processing Services",
+        "Headquarters Location": "Harrison, New York",
+        "Date added": "2008-07-18",
+        "CIK": 1141391,
+        "Founded": "1966"
+    }
+}

@@ -1,0 +1,74 @@
+{
+    "TSCO": {
+        "Security": "Tractor Supply",
+        "GICS Sector": "Consumer Discretionary",
+        "GICS Sub-Industry": "Other Specialty Retail",
+        "Headquarters Location": "Brentwood, Tennessee",
+        "Date added": "2014-01-24",
+        "CIK": 916365,
+        "Founded": "1938"
+    },
+    "TT": {
+        "Security": "Trane Technologies",
+        "GICS Sector": "Industrials",
+        "GICS Sub-Industry": "Building Products",
+        "Headquarters Location": "Dublin, Ireland",
+        "Date added": "2010-11-17",
+        "CIK": 1466258,
+        "Founded": "1871"
+    },
+    "TDG": {
+        "Security": "TransDigm Group",
+        "GICS Sector": "Industrials",
+        "GICS Sub-Industry": "Aerospace & Defense",
+        "Headquarters Location": "Cleveland, Ohio",
+        "Date added": "2016-06-03",
+        "CIK": 1260221,
+        "Founded": "1993"
+    },
+    "TRV": {
+        "Security": "Travelers Companies (The)",
+        "GICS Sector": "Financials",
+        "GICS Sub-Industry": "Property & Casualty Insurance",
+        "Headquarters Location": "New York City, New York",
+        "Date added": "2002-08-21",
+        "CIK": 86312,
+        "Founded": "1853"
+    },
+    "TFC": {
+        "Security": "Truist Financial",
+        "GICS Sector": "Financials",
+        "GICS Sub-Industry": "Diversified Banks",
+        "Headquarters Location": "Charlotte, North Carolina",
+        "Date added": "1997-12-04",
+        "CIK": 92230,
+        "Founded": "1872"
+    },
+    "TSN": {
+        "Security": "Tyson Foods",
+        "GICS Sector": "Consumer Staples",
+        "GICS Sub-Industry": "Packaged Foods & Meats",
+        "Headquarters Location": "Springdale, Arkansas",
+        "Date added": "2005-08-10",
+        "CIK": 100493,
+        "Founded": "1935"
+    },
+    "USB": {
+        "Security": "U.S. Bancorp",
+        "GICS Sector": "Financials",
+        "GICS Sub-Industry": "Diversified Banks",
+        "Headquarters Location": "Minneapolis, Minnesota",
+        "Date added": "1999-11-01",
+        "CIK": 36104,
+        "Founded": "1968"
+    },
+    "UDR": {
+        "Security": "UDR, Inc.",
+        "GICS Sector": "Real Estate",
+        "GICS Sub-Industry": "Multi-Family Residential REITs",
+        "Headquarters Location": "Highlands Ranch, Colorado",
+        "Date added": "2016-03-07",
+        "CIK": 74208,
+        "Founded": "1972"
+    }
+}

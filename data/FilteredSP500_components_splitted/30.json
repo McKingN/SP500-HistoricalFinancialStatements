@@ -1,0 +1,74 @@
+{
+    "K": {
+        "Security": "Kellanova",
+        "GICS Sector": "Consumer Staples",
+        "GICS Sub-Industry": "Packaged Foods & Meats",
+        "Headquarters Location": "Chicago, Illinois",
+        "Date added": "1989-09-11",
+        "CIK": 55067,
+        "Founded": "1906"
+    },
+    "KEY": {
+        "Security": "KeyCorp",
+        "GICS Sector": "Financials",
+        "GICS Sub-Industry": "Regional Banks",
+        "Headquarters Location": "Cleveland, Ohio",
+        "Date added": "1994-03-01",
+        "CIK": 91576,
+        "Founded": "1825"
+    },
+    "KEYS": {
+        "Security": "Keysight Technologies",
+        "GICS Sector": "Information Technology",
+        "GICS Sub-Industry": "Electronic Equipment & Instruments",
+        "Headquarters Location": "Santa Rosa, California",
+        "Date added": "2018-11-06",
+        "CIK": 1601046,
+        "Founded": "2014 (1939)"
+    },
+    "KMB": {
+        "Security": "Kimberly-Clark",
+        "GICS Sector": "Consumer Staples",
+        "GICS Sub-Industry": "Household Products",
+        "Headquarters Location": "Irving, Texas",
+        "Date added": "1957-03-04",
+        "CIK": 55785,
+        "Founded": "1872"
+    },
+    "KIM": {
+        "Security": "Kimco Realty",
+        "GICS Sector": "Real Estate",
+        "GICS Sub-Industry": "Retail REITs",
+        "Headquarters Location": "Jericho, New York",
+        "Date added": "2006-04-04",
+        "CIK": 879101,
+        "Founded": "1958"
+    },
+    "KMI": {
+        "Security": "Kinder Morgan",
+        "GICS Sector": "Energy",
+        "GICS Sub-Industry": "Oil & Gas Storage & Transportation",
+        "Headquarters Location": "Houston, Texas",
+        "Date added": "2012-05-25",
+        "CIK": 1506307,
+        "Founded": "1997"
+    },
+    "KLAC": {
+        "Security": "KLA Corporation",
+        "GICS Sector": "Information Technology",
+        "GICS Sub-Industry": "Semiconductor Materials & Equipment",
+        "Headquarters Location": "Milpitas, California",
+        "Date added": "1997-09-30",
+        "CIK": 319201,
+        "Founded": "1975/1977 (1997)"
+    },
+    "KHC": {
+        "Security": "Kraft Heinz",
+        "GICS Sector": "Consumer Staples",
+        "GICS Sub-Industry": "Packaged Foods & Meats",
+        "Headquarters Location": "Chicago, Illinois; Pittsburgh, Pennsylvania",
+        "Date added": "2015-07-06",
+        "CIK": 1637459,
+        "Founded": "2015 (1869)"
+    }
+}

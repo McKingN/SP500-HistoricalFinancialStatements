@@ -1,0 +1,74 @@
+{
+    "HAS": {
+        "Security": "Hasbro",
+        "GICS Sector": "Consumer Discretionary",
+        "GICS Sub-Industry": "Leisure Products",
+        "Headquarters Location": "Pawtucket, Rhode Island",
+        "Date added": "1984-09-30",
+        "CIK": 46080,
+        "Founded": "1923"
+    },
+    "HCA": {
+        "Security": "HCA Healthcare",
+        "GICS Sector": "Health Care",
+        "GICS Sub-Industry": "Health Care Facilities",
+        "Headquarters Location": "Nashville, Tennessee",
+        "Date added": "2015-01-27",
+        "CIK": 860730,
+        "Founded": "1968"
+    },
+    "DOC": {
+        "Security": "Healthpeak Properties",
+        "GICS Sector": "Real Estate",
+        "GICS Sub-Industry": "Health Care REITs",
+        "Headquarters Location": "Denver, Colorado",
+        "Date added": "2008-03-31",
+        "CIK": 765880,
+        "Founded": "1985"
+    },
+    "HSIC": {
+        "Security": "Henry Schein",
+        "GICS Sector": "Health Care",
+        "GICS Sub-Industry": "Health Care Distributors",
+        "Headquarters Location": "Melville, New York",
+        "Date added": "2015-03-17",
+        "CIK": 1000228,
+        "Founded": "1932"
+    },
+    "HSY": {
+        "Security": "Hershey Company (The)",
+        "GICS Sector": "Consumer Staples",
+        "GICS Sub-Industry": "Packaged Foods & Meats",
+        "Headquarters Location": "Hershey, Pennsylvania",
+        "Date added": "1957-03-04",
+        "CIK": 47111,
+        "Founded": "1894"
+    },
+    "HES": {
+        "Security": "Hess Corporation",
+        "GICS Sector": "Energy",
+        "GICS Sub-Industry": "Integrated Oil & Gas",
+        "Headquarters Location": "New York City, New York",
+        "Date added": "1984-05-31",
+        "CIK": 4447,
+        "Founded": "1919"
+    },
+    "HPE": {
+        "Security": "Hewlett Packard Enterprise",
+        "GICS Sector": "Information Technology",
+        "GICS Sub-Industry": "Technology Hardware, Storage & Peripherals",
+        "Headquarters Location": "Houston, Texas",
+        "Date added": "2015-11-02",
+        "CIK": 1645590,
+        "Founded": "2015"
+    },
+    "HLT": {
+        "Security": "Hilton Worldwide",
+        "GICS Sector": "Consumer Discretionary",
+        "GICS Sub-Industry": "Hotels, Resorts & Cruise Lines",
+        "Headquarters Location": "Tysons Corner, Virginia",
+        "Date added": "2017-06-19",
+        "CIK": 1585689,
+        "Founded": "1919"
+    }
+}

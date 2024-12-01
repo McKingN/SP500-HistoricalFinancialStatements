@@ -1,0 +1,74 @@
+{
+    "NFLX": {
+        "Security": "Netflix",
+        "GICS Sector": "Communication Services",
+        "GICS Sub-Industry": "Movies & Entertainment",
+        "Headquarters Location": "Los Gatos, California",
+        "Date added": "2010-12-20",
+        "CIK": 1065280,
+        "Founded": "1997"
+    },
+    "NEM": {
+        "Security": "Newmont",
+        "GICS Sector": "Materials",
+        "GICS Sub-Industry": "Gold",
+        "Headquarters Location": "Denver, Colorado",
+        "Date added": "1969-06-30",
+        "CIK": 1164727,
+        "Founded": "1921"
+    },
+    "NWSA": {
+        "Security": "News Corp (Class A)",
+        "GICS Sector": "Communication Services",
+        "GICS Sub-Industry": "Publishing",
+        "Headquarters Location": "New York City, New York",
+        "Date added": "2013-08-01",
+        "CIK": 1564708,
+        "Founded": "2013 (News Corporation 1980)"
+    },
+    "NWS": {
+        "Security": "News Corp (Class B)",
+        "GICS Sector": "Communication Services",
+        "GICS Sub-Industry": "Publishing",
+        "Headquarters Location": "New York City, New York",
+        "Date added": "2015-09-18",
+        "CIK": 1564708,
+        "Founded": "2013 (News Corporation 1980)"
+    },
+    "NEE": {
+        "Security": "NextEra Energy",
+        "GICS Sector": "Utilities",
+        "GICS Sub-Industry": "Multi-Utilities",
+        "Headquarters Location": "Juno Beach, Florida",
+        "Date added": "1976-06-30",
+        "CIK": 753308,
+        "Founded": "1984 (1925)"
+    },
+    "NKE": {
+        "Security": "Nike, Inc.",
+        "GICS Sector": "Consumer Discretionary",
+        "GICS Sub-Industry": "Apparel, Accessories & Luxury Goods",
+        "Headquarters Location": "Washington County, Oregon",
+        "Date added": "1988-11-30",
+        "CIK": 320187,
+        "Founded": "1964"
+    },
+    "NI": {
+        "Security": "NiSource",
+        "GICS Sector": "Utilities",
+        "GICS Sub-Industry": "Multi-Utilities",
+        "Headquarters Location": "Merrillville, Indiana",
+        "Date added": "2000-11-02",
+        "CIK": 1111711,
+        "Founded": "1912"
+    },
+    "NSC": {
+        "Security": "Norfolk Southern Railway",
+        "GICS Sector": "Industrials",
+        "GICS Sub-Industry": "Rail Transportation",
+        "Headquarters Location": "Atlanta, Georgia",
+        "Date added": "1957-03-04",
+        "CIK": 702165,
+        "Founded": "1881/1894 (1980)"
+    }
+}

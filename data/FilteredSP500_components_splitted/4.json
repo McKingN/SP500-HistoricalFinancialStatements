@@ -1,0 +1,74 @@
+{
+    "AEP": {
+        "Security": "American Electric Power",
+        "GICS Sector": "Utilities",
+        "GICS Sub-Industry": "Electric Utilities",
+        "Headquarters Location": "Columbus, Ohio",
+        "Date added": "1957-03-04",
+        "CIK": 4904,
+        "Founded": "1906"
+    },
+    "AXP": {
+        "Security": "American Express",
+        "GICS Sector": "Financials",
+        "GICS Sub-Industry": "Consumer Finance",
+        "Headquarters Location": "New York City, New York",
+        "Date added": "1976-06-30",
+        "CIK": 4962,
+        "Founded": "1850"
+    },
+    "AIG": {
+        "Security": "American International Group",
+        "GICS Sector": "Financials",
+        "GICS Sub-Industry": "Multi-line Insurance",
+        "Headquarters Location": "New York City, New York",
+        "Date added": "1980-03-31",
+        "CIK": 5272,
+        "Founded": "1919"
+    },
+    "AMT": {
+        "Security": "American Tower",
+        "GICS Sector": "Real Estate",
+        "GICS Sub-Industry": "Telecom Tower REITs",
+        "Headquarters Location": "Boston, Massachusetts",
+        "Date added": "2007-11-19",
+        "CIK": 1053507,
+        "Founded": "1995"
+    },
+    "AWK": {
+        "Security": "American Water Works",
+        "GICS Sector": "Utilities",
+        "GICS Sub-Industry": "Water Utilities",
+        "Headquarters Location": "Camden, New Jersey",
+        "Date added": "2016-03-04",
+        "CIK": 1410636,
+        "Founded": "1886"
+    },
+    "AMP": {
+        "Security": "Ameriprise Financial",
+        "GICS Sector": "Financials",
+        "GICS Sub-Industry": "Asset Management & Custody Banks",
+        "Headquarters Location": "Minneapolis, Minnesota",
+        "Date added": "2005-10-03",
+        "CIK": 820027,
+        "Founded": "1894"
+    },
+    "AME": {
+        "Security": "Ametek",
+        "GICS Sector": "Industrials",
+        "GICS Sub-Industry": "Electrical Components & Equipment",
+        "Headquarters Location": "Berwyn, Pennsylvania",
+        "Date added": "2013-09-23",
+        "CIK": 1037868,
+        "Founded": "1930"
+    },
+    "AMGN": {
+        "Security": "Amgen",
+        "GICS Sector": "Health Care",
+        "GICS Sub-Industry": "Biotechnology",
+        "Headquarters Location": "Thousand Oaks, California",
+        "Date added": "1992-01-02",
+        "CIK": 318154,
+        "Founded": "1980"
+    }
+}

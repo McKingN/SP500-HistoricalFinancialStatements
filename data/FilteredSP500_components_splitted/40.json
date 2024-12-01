@@ -1,0 +1,74 @@
+{
+    "PH": {
+        "Security": "Parker Hannifin",
+        "GICS Sector": "Industrials",
+        "GICS Sub-Industry": "Industrial Machinery & Supplies & Components",
+        "Headquarters Location": "Cleveland, Ohio",
+        "Date added": "1985-11-30",
+        "CIK": 76334,
+        "Founded": "1917"
+    },
+    "PAYX": {
+        "Security": "Paychex",
+        "GICS Sector": "Industrials",
+        "GICS Sub-Industry": "Human Resource & Employment Services",
+        "Headquarters Location": "Penfield, New York",
+        "Date added": "1998-10-01",
+        "CIK": 723531,
+        "Founded": "1971"
+    },
+    "PYPL": {
+        "Security": "PayPal",
+        "GICS Sector": "Financials",
+        "GICS Sub-Industry": "Transaction & Payment Processing Services",
+        "Headquarters Location": "San Jose, California",
+        "Date added": "2015-07-20",
+        "CIK": 1633917,
+        "Founded": "1998"
+    },
+    "PNR": {
+        "Security": "Pentair",
+        "GICS Sector": "Industrials",
+        "GICS Sub-Industry": "Industrial Machinery & Supplies & Components",
+        "Headquarters Location": "Worsley, United Kingdom",
+        "Date added": "2012-10-01",
+        "CIK": 77360,
+        "Founded": "1966"
+    },
+    "PEP": {
+        "Security": "PepsiCo",
+        "GICS Sector": "Consumer Staples",
+        "GICS Sub-Industry": "Soft Drinks & Non-alcoholic Beverages",
+        "Headquarters Location": "Purchase, New York",
+        "Date added": "1957-03-04",
+        "CIK": 77476,
+        "Founded": "1898"
+    },
+    "PFE": {
+        "Security": "Pfizer",
+        "GICS Sector": "Health Care",
+        "GICS Sub-Industry": "Pharmaceuticals",
+        "Headquarters Location": "New York City, New York",
+        "Date added": "1957-03-04",
+        "CIK": 78003,
+        "Founded": "1849"
+    },
+    "PM": {
+        "Security": "Philip Morris International",
+        "GICS Sector": "Consumer Staples",
+        "GICS Sub-Industry": "Tobacco",
+        "Headquarters Location": "New York City, New York",
+        "Date added": "2008-03-31",
+        "CIK": 1413329,
+        "Founded": "2008 (1847)"
+    },
+    "PSX": {
+        "Security": "Phillips 66",
+        "GICS Sector": "Energy",
+        "GICS Sub-Industry": "Oil & Gas Refining & Marketing",
+        "Headquarters Location": "Houston, Texas",
+        "Date added": "2012-05-01",
+        "CIK": 1534701,
+        "Founded": "2012 (1917)"
+    }
+}

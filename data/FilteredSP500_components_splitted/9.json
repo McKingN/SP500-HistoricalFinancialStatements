@@ -1,0 +1,74 @@
+{
+    "BSX": {
+        "Security": "Boston Scientific",
+        "GICS Sector": "Health Care",
+        "GICS Sub-Industry": "Health Care Equipment",
+        "Headquarters Location": "Marlborough, Massachusetts",
+        "Date added": "1995-02-24",
+        "CIK": 885725,
+        "Founded": "1979"
+    },
+    "BMY": {
+        "Security": "Bristol Myers Squibb",
+        "GICS Sector": "Health Care",
+        "GICS Sub-Industry": "Pharmaceuticals",
+        "Headquarters Location": "New York City, New York",
+        "Date added": "1957-03-04",
+        "CIK": 14272,
+        "Founded": "1989 (1887)"
+    },
+    "AVGO": {
+        "Security": "Broadcom",
+        "GICS Sector": "Information Technology",
+        "GICS Sub-Industry": "Semiconductors",
+        "Headquarters Location": "Palo Alto, California",
+        "Date added": "2014-05-08",
+        "CIK": 1730168,
+        "Founded": "1961"
+    },
+    "BR": {
+        "Security": "Broadridge Financial Solutions",
+        "GICS Sector": "Industrials",
+        "GICS Sub-Industry": "Data Processing & Outsourced Services",
+        "Headquarters Location": "Lake Success, New York",
+        "Date added": "2018-06-18",
+        "CIK": 1383312,
+        "Founded": "1962"
+    },
+    "BF-B": {
+        "Security": "Brown\u2013Forman",
+        "GICS Sector": "Consumer Staples",
+        "GICS Sub-Industry": "Distillers & Vintners",
+        "Headquarters Location": "Louisville, Kentucky",
+        "Date added": "1982-10-31",
+        "CIK": 14693,
+        "Founded": "1870"
+    },
+    "BXP": {
+        "Security": "BXP, Inc.",
+        "GICS Sector": "Real Estate",
+        "GICS Sub-Industry": "Office REITs",
+        "Headquarters Location": "Boston, Massachusetts",
+        "Date added": "2006-04-03",
+        "CIK": 1037540,
+        "Founded": "1970"
+    },
+    "CHRW": {
+        "Security": "C.H. Robinson",
+        "GICS Sector": "Industrials",
+        "GICS Sub-Industry": "Air Freight & Logistics",
+        "Headquarters Location": "Eden Prairie, Minnesota",
+        "Date added": "2007-03-02",
+        "CIK": 1043277,
+        "Founded": "1905"
+    },
+    "CDNS": {
+        "Security": "Cadence Design Systems",
+        "GICS Sector": "Information Technology",
+        "GICS Sub-Industry": "Application Software",
+        "Headquarters Location": "San Jose, California",
+        "Date added": "2017-09-18",
+        "CIK": 813672,
+        "Founded": "1988"
+    }
+}

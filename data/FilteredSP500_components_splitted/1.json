@@ -1,0 +1,74 @@
+{
+    "MMM": {
+        "Security": "3M",
+        "GICS Sector": "Industrials",
+        "GICS Sub-Industry": "Industrial Conglomerates",
+        "Headquarters Location": "Saint Paul, Minnesota",
+        "Date added": "1957-03-04",
+        "CIK": 66740,
+        "Founded": "1902"
+    },
+    "AOS": {
+        "Security": "A. O. Smith",
+        "GICS Sector": "Industrials",
+        "GICS Sub-Industry": "Building Products",
+        "Headquarters Location": "Milwaukee, Wisconsin",
+        "Date added": "2017-07-26",
+        "CIK": 91142,
+        "Founded": "1916"
+    },
+    "ABT": {
+        "Security": "Abbott Laboratories",
+        "GICS Sector": "Health Care",
+        "GICS Sub-Industry": "Health Care Equipment",
+        "Headquarters Location": "North Chicago, Illinois",
+        "Date added": "1957-03-04",
+        "CIK": 1800,
+        "Founded": "1888"
+    },
+    "ABBV": {
+        "Security": "AbbVie",
+        "GICS Sector": "Health Care",
+        "GICS Sub-Industry": "Biotechnology",
+        "Headquarters Location": "North Chicago, Illinois",
+        "Date added": "2012-12-31",
+        "CIK": 1551152,
+        "Founded": "2013 (1888)"
+    },
+    "ACN": {
+        "Security": "Accenture",
+        "GICS Sector": "Information Technology",
+        "GICS Sub-Industry": "IT Consulting & Other Services",
+        "Headquarters Location": "Dublin, Ireland",
+        "Date added": "2011-07-06",
+        "CIK": 1467373,
+        "Founded": "1989"
+    },
+    "ADBE": {
+        "Security": "Adobe Inc.",
+        "GICS Sector": "Information Technology",
+        "GICS Sub-Industry": "Application Software",
+        "Headquarters Location": "San Jose, California",
+        "Date added": "1997-05-05",
+        "CIK": 796343,
+        "Founded": "1982"
+    },
+    "AMD": {
+        "Security": "Advanced Micro Devices",
+        "GICS Sector": "Information Technology",
+        "GICS Sub-Industry": "Semiconductors",
+        "Headquarters Location": "Santa Clara, California",
+        "Date added": "2017-03-20",
+        "CIK": 2488,
+        "Founded": "1969"
+    },
+    "AES": {
+        "Security": "AES Corporation",
+        "GICS Sector": "Utilities",
+        "GICS Sub-Industry": "Independent Power Producers & Energy Traders",
+        "Headquarters Location": "Arlington, Virginia",
+        "Date added": "1998-10-02",
+        "CIK": 874761,
+        "Founded": "1981"
+    }
+}

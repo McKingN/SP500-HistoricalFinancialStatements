@@ -1,0 +1,74 @@
+{
+    "CVX": {
+        "Security": "Chevron Corporation",
+        "GICS Sector": "Energy",
+        "GICS Sub-Industry": "Integrated Oil & Gas",
+        "Headquarters Location": "San Ramon, California",
+        "Date added": "1957-03-04",
+        "CIK": 93410,
+        "Founded": "1879"
+    },
+    "CMG": {
+        "Security": "Chipotle Mexican Grill",
+        "GICS Sector": "Consumer Discretionary",
+        "GICS Sub-Industry": "Restaurants",
+        "Headquarters Location": "Newport Beach, California",
+        "Date added": "2011-04-28",
+        "CIK": 1058090,
+        "Founded": "1993"
+    },
+    "CB": {
+        "Security": "Chubb Limited",
+        "GICS Sector": "Financials",
+        "GICS Sub-Industry": "Property & Casualty Insurance",
+        "Headquarters Location": "Zurich, Switzerland",
+        "Date added": "2010-07-15",
+        "CIK": 896159,
+        "Founded": "1985"
+    },
+    "CHD": {
+        "Security": "Church & Dwight",
+        "GICS Sector": "Consumer Staples",
+        "GICS Sub-Industry": "Household Products",
+        "Headquarters Location": "Ewing, New Jersey",
+        "Date added": "2015-12-29",
+        "CIK": 313927,
+        "Founded": "1847"
+    },
+    "CI": {
+        "Security": "Cigna",
+        "GICS Sector": "Health Care",
+        "GICS Sub-Industry": "Health Care Services",
+        "Headquarters Location": "Bloomfield, Connecticut",
+        "Date added": "1976-06-30",
+        "CIK": 1739940,
+        "Founded": "1982"
+    },
+    "CINF": {
+        "Security": "Cincinnati Financial",
+        "GICS Sector": "Financials",
+        "GICS Sub-Industry": "Property & Casualty Insurance",
+        "Headquarters Location": "Fairfield, Ohio",
+        "Date added": "1997-12-18",
+        "CIK": 20286,
+        "Founded": "1950"
+    },
+    "CTAS": {
+        "Security": "Cintas",
+        "GICS Sector": "Industrials",
+        "GICS Sub-Industry": "Diversified Support Services",
+        "Headquarters Location": "Mason, Ohio",
+        "Date added": "2001-03-01",
+        "CIK": 723254,
+        "Founded": "1929"
+    },
+    "CSCO": {
+        "Security": "Cisco",
+        "GICS Sector": "Information Technology",
+        "GICS Sub-Industry": "Communications Equipment",
+        "Headquarters Location": "San Jose, California",
+        "Date added": "1993-12-01",
+        "CIK": 858877,
+        "Founded": "1984"
+    }
+}

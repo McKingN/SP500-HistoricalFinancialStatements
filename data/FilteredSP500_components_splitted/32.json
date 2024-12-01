@@ -1,0 +1,74 @@
+{
+    "LLY": {
+        "Security": "Lilly (Eli)",
+        "GICS Sector": "Health Care",
+        "GICS Sub-Industry": "Pharmaceuticals",
+        "Headquarters Location": "Indianapolis, Indiana",
+        "Date added": "1970-12-31",
+        "CIK": 59478,
+        "Founded": "1876"
+    },
+    "LIN": {
+        "Security": "Linde plc",
+        "GICS Sector": "Materials",
+        "GICS Sub-Industry": "Industrial Gases",
+        "Headquarters Location": "Guildford, United Kingdom",
+        "Date added": "1992-07-01",
+        "CIK": 1707925,
+        "Founded": "1879"
+    },
+    "LYV": {
+        "Security": "Live Nation Entertainment",
+        "GICS Sector": "Communication Services",
+        "GICS Sub-Industry": "Movies & Entertainment",
+        "Headquarters Location": "Beverly Hills, California",
+        "Date added": "2019-12-23",
+        "CIK": 1335258,
+        "Founded": "2010"
+    },
+    "LKQ": {
+        "Security": "LKQ Corporation",
+        "GICS Sector": "Consumer Discretionary",
+        "GICS Sub-Industry": "Distributors",
+        "Headquarters Location": "Chicago, Illinois",
+        "Date added": "2016-05-23",
+        "CIK": 1065696,
+        "Founded": "1998"
+    },
+    "LMT": {
+        "Security": "Lockheed Martin",
+        "GICS Sector": "Industrials",
+        "GICS Sub-Industry": "Aerospace & Defense",
+        "Headquarters Location": "Bethesda, Maryland",
+        "Date added": "1957-03-04",
+        "CIK": 936468,
+        "Founded": "1995"
+    },
+    "L": {
+        "Security": "Loews Corporation",
+        "GICS Sector": "Financials",
+        "GICS Sub-Industry": "Multi-line Insurance",
+        "Headquarters Location": "New York City, New York",
+        "Date added": "1995-05-31",
+        "CIK": 60086,
+        "Founded": "1959"
+    },
+    "LOW": {
+        "Security": "Lowe's",
+        "GICS Sector": "Consumer Discretionary",
+        "GICS Sub-Industry": "Home Improvement Retail",
+        "Headquarters Location": "Mooresville, North Carolina",
+        "Date added": "1984-02-29",
+        "CIK": 60667,
+        "Founded": "1904/1946/1959"
+    },
+    "LYB": {
+        "Security": "LyondellBasell",
+        "GICS Sector": "Materials",
+        "GICS Sub-Industry": "Specialty Chemicals",
+        "Headquarters Location": "Rotterdam, Netherlands",
+        "Date added": "2012-09-05",
+        "CIK": 1489393,
+        "Founded": "2007"
+    }
+}

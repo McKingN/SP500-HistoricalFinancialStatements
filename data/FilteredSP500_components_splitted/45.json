@@ -1,0 +1,74 @@
+{
+    "CRM": {
+        "Security": "Salesforce",
+        "GICS Sector": "Information Technology",
+        "GICS Sub-Industry": "Application Software",
+        "Headquarters Location": "San Francisco, California",
+        "Date added": "2008-09-15",
+        "CIK": 1108524,
+        "Founded": "1999"
+    },
+    "SBAC": {
+        "Security": "SBA Communications",
+        "GICS Sector": "Real Estate",
+        "GICS Sub-Industry": "Telecom Tower REITs",
+        "Headquarters Location": "Boca Raton, Florida",
+        "Date added": "2017-09-01",
+        "CIK": 1034054,
+        "Founded": "1989"
+    },
+    "SLB": {
+        "Security": "Schlumberger",
+        "GICS Sector": "Energy",
+        "GICS Sub-Industry": "Oil & Gas Equipment & Services",
+        "Headquarters Location": "Houston, Texas",
+        "Date added": "1957-03-04",
+        "CIK": 87347,
+        "Founded": "1926"
+    },
+    "STX": {
+        "Security": "Seagate Technology",
+        "GICS Sector": "Information Technology",
+        "GICS Sub-Industry": "Technology Hardware, Storage & Peripherals",
+        "Headquarters Location": "Dublin, Ireland",
+        "Date added": "2012-07-02",
+        "CIK": 1137789,
+        "Founded": "1979"
+    },
+    "SRE": {
+        "Security": "Sempra",
+        "GICS Sector": "Utilities",
+        "GICS Sub-Industry": "Multi-Utilities",
+        "Headquarters Location": "San Diego, California",
+        "Date added": "2017-03-17",
+        "CIK": 1032208,
+        "Founded": "1998"
+    },
+    "NOW": {
+        "Security": "ServiceNow",
+        "GICS Sector": "Information Technology",
+        "GICS Sub-Industry": "Systems Software",
+        "Headquarters Location": "Santa Clara, California",
+        "Date added": "2019-11-21",
+        "CIK": 1373715,
+        "Founded": "2003"
+    },
+    "SHW": {
+        "Security": "Sherwin-Williams",
+        "GICS Sector": "Materials",
+        "GICS Sub-Industry": "Specialty Chemicals",
+        "Headquarters Location": "Cleveland, Ohio",
+        "Date added": "1964-06-30",
+        "CIK": 89800,
+        "Founded": "1866"
+    },
+    "SPG": {
+        "Security": "Simon Property Group",
+        "GICS Sector": "Real Estate",
+        "GICS Sub-Industry": "Retail REITs",
+        "Headquarters Location": "Indianapolis, Indiana",
+        "Date added": "2002-06-26",
+        "CIK": 1063761,
+        "Founded": "2003"
+    }
+}

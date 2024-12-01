@@ -1,0 +1,74 @@
+{
+    "KR": {
+        "Security": "Kroger",
+        "GICS Sector": "Consumer Staples",
+        "GICS Sub-Industry": "Food Retail",
+        "Headquarters Location": "Cincinnati, Ohio",
+        "Date added": "1957-03-04",
+        "CIK": 56873,
+        "Founded": "1883"
+    },
+    "LHX": {
+        "Security": "L3Harris",
+        "GICS Sector": "Industrials",
+        "GICS Sub-Industry": "Aerospace & Defense",
+        "Headquarters Location": "Melbourne, Florida",
+        "Date added": "2008-09-22",
+        "CIK": 202058,
+        "Founded": "2019 (L3 1997, Harris 1895)"
+    },
+    "LH": {
+        "Security": "LabCorp",
+        "GICS Sector": "Health Care",
+        "GICS Sub-Industry": "Health Care Services",
+        "Headquarters Location": "Burlington, North Carolina",
+        "Date added": "2004-11-01",
+        "CIK": 920148,
+        "Founded": "1978"
+    },
+    "LRCX": {
+        "Security": "Lam Research",
+        "GICS Sector": "Information Technology",
+        "GICS Sub-Industry": "Semiconductor Materials & Equipment",
+        "Headquarters Location": "Fremont, California",
+        "Date added": "2012-06-29",
+        "CIK": 707549,
+        "Founded": "1980"
+    },
+    "LW": {
+        "Security": "Lamb Weston",
+        "GICS Sector": "Consumer Staples",
+        "GICS Sub-Industry": "Packaged Foods & Meats",
+        "Headquarters Location": "Eagle, Idaho",
+        "Date added": "2018-12-03",
+        "CIK": 1679273,
+        "Founded": "2016 (1950)"
+    },
+    "LVS": {
+        "Security": "Las Vegas Sands",
+        "GICS Sector": "Consumer Discretionary",
+        "GICS Sub-Industry": "Casinos & Gaming",
+        "Headquarters Location": "Las Vegas, Nevada",
+        "Date added": "2019-10-03",
+        "CIK": 1300514,
+        "Founded": "1988"
+    },
+    "LDOS": {
+        "Security": "Leidos",
+        "GICS Sector": "Industrials",
+        "GICS Sub-Industry": "Diversified Support Services",
+        "Headquarters Location": "Reston, Virginia",
+        "Date added": "2019-08-09",
+        "CIK": 1336920,
+        "Founded": "1969"
+    },
+    "LEN": {
+        "Security": "Lennar",
+        "GICS Sector": "Consumer Discretionary",
+        "GICS Sub-Industry": "Homebuilding",
+        "Headquarters Location": "Miami, Florida",
+        "Date added": "2005-10-04",
+        "CIK": 920760,
+        "Founded": "1954"
+    }
+}

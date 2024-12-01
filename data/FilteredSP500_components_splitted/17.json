@@ -1,0 +1,74 @@
+{
+    "DFS": {
+        "Security": "Discover Financial",
+        "GICS Sector": "Financials",
+        "GICS Sub-Industry": "Consumer Finance",
+        "Headquarters Location": "Riverwoods, Illinois",
+        "Date added": "2007-07-02",
+        "CIK": 1393612,
+        "Founded": "1985"
+    },
+    "DG": {
+        "Security": "Dollar General",
+        "GICS Sector": "Consumer Staples",
+        "GICS Sub-Industry": "Consumer Staples Merchandise Retail",
+        "Headquarters Location": "Goodlettsville, Tennessee",
+        "Date added": "2012-12-03",
+        "CIK": 29534,
+        "Founded": "1939"
+    },
+    "DLTR": {
+        "Security": "Dollar Tree",
+        "GICS Sector": "Consumer Staples",
+        "GICS Sub-Industry": "Consumer Staples Merchandise Retail",
+        "Headquarters Location": "Chesapeake, Virginia",
+        "Date added": "2011-12-19",
+        "CIK": 935703,
+        "Founded": "1986"
+    },
+    "D": {
+        "Security": "Dominion Energy",
+        "GICS Sector": "Utilities",
+        "GICS Sub-Industry": "Multi-Utilities",
+        "Headquarters Location": "Richmond, Virginia",
+        "Date added": "2016-11-30",
+        "CIK": 715957,
+        "Founded": "1983"
+    },
+    "DOV": {
+        "Security": "Dover Corporation",
+        "GICS Sector": "Industrials",
+        "GICS Sub-Industry": "Industrial Machinery & Supplies & Components",
+        "Headquarters Location": "Downers Grove, Illinois",
+        "Date added": "1985-10-31",
+        "CIK": 29905,
+        "Founded": "1955"
+    },
+    "DOW": {
+        "Security": "Dow Inc.",
+        "GICS Sector": "Materials",
+        "GICS Sub-Industry": "Commodity Chemicals",
+        "Headquarters Location": "Midland, Michigan",
+        "Date added": "2019-04-01",
+        "CIK": 1751788,
+        "Founded": "2019 (1897)"
+    },
+    "DHI": {
+        "Security": "D. R. Horton",
+        "GICS Sector": "Consumer Discretionary",
+        "GICS Sub-Industry": "Homebuilding",
+        "Headquarters Location": "Arlington, Texas",
+        "Date added": "2005-06-22",
+        "CIK": 882184,
+        "Founded": "1978"
+    },
+    "DTE": {
+        "Security": "DTE Energy",
+        "GICS Sector": "Utilities",
+        "GICS Sub-Industry": "Multi-Utilities",
+        "Headquarters Location": "Detroit, Michigan",
+        "Date added": "1957-03-04",
+        "CIK": 936340,
+        "Founded": "1995"
+    }
+}

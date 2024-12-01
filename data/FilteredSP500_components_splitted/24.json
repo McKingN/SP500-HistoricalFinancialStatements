@@ -1,0 +1,74 @@
+{
+    "GM": {
+        "Security": "General Motors",
+        "GICS Sector": "Consumer Discretionary",
+        "GICS Sub-Industry": "Automobile Manufacturers",
+        "Headquarters Location": "Detroit, Michigan",
+        "Date added": "2013-06-06",
+        "CIK": 1467858,
+        "Founded": "1908"
+    },
+    "GPC": {
+        "Security": "Genuine Parts Company",
+        "GICS Sector": "Consumer Discretionary",
+        "GICS Sub-Industry": "Distributors",
+        "Headquarters Location": "Atlanta, Georgia",
+        "Date added": "1973-12-31",
+        "CIK": 40987,
+        "Founded": "1925"
+    },
+    "GILD": {
+        "Security": "Gilead Sciences",
+        "GICS Sector": "Health Care",
+        "GICS Sub-Industry": "Biotechnology",
+        "Headquarters Location": "Foster City, California",
+        "Date added": "2004-07-01",
+        "CIK": 882095,
+        "Founded": "1987"
+    },
+    "GPN": {
+        "Security": "Global Payments",
+        "GICS Sector": "Financials",
+        "GICS Sub-Industry": "Transaction & Payment Processing Services",
+        "Headquarters Location": "Atlanta, Georgia",
+        "Date added": "2016-04-25",
+        "CIK": 1123360,
+        "Founded": "2000"
+    },
+    "GL": {
+        "Security": "Globe Life",
+        "GICS Sector": "Financials",
+        "GICS Sub-Industry": "Life & Health Insurance",
+        "Headquarters Location": "McKinney, Texas",
+        "Date added": "1989-04-30",
+        "CIK": 320335,
+        "Founded": "1900"
+    },
+    "GS": {
+        "Security": "Goldman Sachs",
+        "GICS Sector": "Financials",
+        "GICS Sub-Industry": "Investment Banking & Brokerage",
+        "Headquarters Location": "New York City, New York",
+        "Date added": "2002-07-22",
+        "CIK": 886982,
+        "Founded": "1869"
+    },
+    "HAL": {
+        "Security": "Halliburton",
+        "GICS Sector": "Energy",
+        "GICS Sub-Industry": "Oil & Gas Equipment & Services",
+        "Headquarters Location": "Houston, Texas",
+        "Date added": "1957-03-04",
+        "CIK": 45012,
+        "Founded": "1919"
+    },
+    "HIG": {
+        "Security": "Hartford (The)",
+        "GICS Sector": "Financials",
+        "GICS Sub-Industry": "Property & Casualty Insurance",
+        "Headquarters Location": "Hartford, Connecticut",
+        "Date added": "1957-03-04",
+        "CIK": 874766,
+        "Founded": "1810"
+    }
+}

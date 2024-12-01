@@ -1,0 +1,74 @@
+{
+    "TPR": {
+        "Security": "Tapestry, Inc.",
+        "GICS Sector": "Consumer Discretionary",
+        "GICS Sub-Industry": "Apparel, Accessories & Luxury Goods",
+        "Headquarters Location": "New York City, New York",
+        "Date added": "2004-09-01",
+        "CIK": 1116132,
+        "Founded": "2017"
+    },
+    "TGT": {
+        "Security": "Target Corporation",
+        "GICS Sector": "Consumer Staples",
+        "GICS Sub-Industry": "Consumer Staples Merchandise Retail",
+        "Headquarters Location": "Minneapolis, Minnesota",
+        "Date added": "1976-12-31",
+        "CIK": 27419,
+        "Founded": "1902"
+    },
+    "TEL": {
+        "Security": "TE Connectivity",
+        "GICS Sector": "Information Technology",
+        "GICS Sub-Industry": "Electronic Manufacturing Services",
+        "Headquarters Location": "Galway, Ireland",
+        "Date added": "2011-10-17",
+        "CIK": 1385157,
+        "Founded": "2007"
+    },
+    "TFX": {
+        "Security": "Teleflex",
+        "GICS Sector": "Health Care",
+        "GICS Sub-Industry": "Health Care Equipment",
+        "Headquarters Location": "Wayne, Pennsylvania",
+        "Date added": "2019-01-18",
+        "CIK": 96943,
+        "Founded": "1943"
+    },
+    "TXN": {
+        "Security": "Texas Instruments",
+        "GICS Sector": "Information Technology",
+        "GICS Sub-Industry": "Semiconductors",
+        "Headquarters Location": "Dallas, Texas",
+        "Date added": "2001-03-12",
+        "CIK": 97476,
+        "Founded": "1930"
+    },
+    "TXT": {
+        "Security": "Textron",
+        "GICS Sector": "Industrials",
+        "GICS Sub-Industry": "Aerospace & Defense",
+        "Headquarters Location": "Providence, Rhode Island",
+        "Date added": "1978-12-31",
+        "CIK": 217346,
+        "Founded": "1923"
+    },
+    "TMO": {
+        "Security": "Thermo Fisher Scientific",
+        "GICS Sector": "Health Care",
+        "GICS Sub-Industry": "Life Sciences Tools & Services",
+        "Headquarters Location": "Waltham, Massachusetts",
+        "Date added": "2004-08-03",
+        "CIK": 97745,
+        "Founded": "2006 (1902)"
+    },
+    "TJX": {
+        "Security": "TJX Companies",
+        "GICS Sector": "Consumer Discretionary",
+        "GICS Sub-Industry": "Apparel Retail",
+        "Headquarters Location": "Framingham, Massachusetts",
+        "Date added": "1985-09-30",
+        "CIK": 109198,
+        "Founded": "1987"
+    }
+}

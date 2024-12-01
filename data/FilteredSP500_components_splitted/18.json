@@ -1,0 +1,74 @@
+{
+    "DUK": {
+        "Security": "Duke Energy",
+        "GICS Sector": "Utilities",
+        "GICS Sub-Industry": "Electric Utilities",
+        "Headquarters Location": "Charlotte, North Carolina",
+        "Date added": "1976-06-30",
+        "CIK": 1326160,
+        "Founded": "1904"
+    },
+    "DD": {
+        "Security": "DuPont",
+        "GICS Sector": "Materials",
+        "GICS Sub-Industry": "Specialty Chemicals",
+        "Headquarters Location": "Wilmington, Delaware",
+        "Date added": "2019-04-02",
+        "CIK": 1666700,
+        "Founded": "2017 (1802)"
+    },
+    "EMN": {
+        "Security": "Eastman Chemical Company",
+        "GICS Sector": "Materials",
+        "GICS Sub-Industry": "Specialty Chemicals",
+        "Headquarters Location": "Kingsport, Tennessee",
+        "Date added": "1994-01-01",
+        "CIK": 915389,
+        "Founded": "1920"
+    },
+    "ETN": {
+        "Security": "Eaton Corporation",
+        "GICS Sector": "Industrials",
+        "GICS Sub-Industry": "Electrical Components & Equipment",
+        "Headquarters Location": "Dublin, Ireland",
+        "Date added": "1957-03-04",
+        "CIK": 1551182,
+        "Founded": "1911"
+    },
+    "EBAY": {
+        "Security": "eBay",
+        "GICS Sector": "Consumer Discretionary",
+        "GICS Sub-Industry": "Broadline Retail",
+        "Headquarters Location": "San Jose, California",
+        "Date added": "2002-07-22",
+        "CIK": 1065088,
+        "Founded": "1995"
+    },
+    "ECL": {
+        "Security": "Ecolab",
+        "GICS Sector": "Materials",
+        "GICS Sub-Industry": "Specialty Chemicals",
+        "Headquarters Location": "Saint Paul, Minnesota",
+        "Date added": "1989-01-31",
+        "CIK": 31462,
+        "Founded": "1923"
+    },
+    "EIX": {
+        "Security": "Edison International",
+        "GICS Sector": "Utilities",
+        "GICS Sub-Industry": "Electric Utilities",
+        "Headquarters Location": "Rosemead, California",
+        "Date added": "1957-03-04",
+        "CIK": 827052,
+        "Founded": "1886"
+    },
+    "EW": {
+        "Security": "Edwards Lifesciences",
+        "GICS Sector": "Health Care",
+        "GICS Sub-Industry": "Health Care Equipment",
+        "Headquarters Location": "Irvine, California",
+        "Date added": "2011-04-01",
+        "CIK": 1099800,
+        "Founded": "1958"
+    }
+}

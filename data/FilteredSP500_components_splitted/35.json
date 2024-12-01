@@ -1,0 +1,74 @@
+{
+    "MGM": {
+        "Security": "MGM Resorts",
+        "GICS Sector": "Consumer Discretionary",
+        "GICS Sub-Industry": "Casinos & Gaming",
+        "Headquarters Location": "Paradise, Nevada",
+        "Date added": "2017-07-26",
+        "CIK": 789570,
+        "Founded": "1986"
+    },
+    "MCHP": {
+        "Security": "Microchip Technology",
+        "GICS Sector": "Information Technology",
+        "GICS Sub-Industry": "Semiconductors",
+        "Headquarters Location": "Chandler, Arizona",
+        "Date added": "2007-09-07",
+        "CIK": 827054,
+        "Founded": "1989"
+    },
+    "MU": {
+        "Security": "Micron Technology",
+        "GICS Sector": "Information Technology",
+        "GICS Sub-Industry": "Semiconductors",
+        "Headquarters Location": "Boise, Idaho",
+        "Date added": "1994-09-27",
+        "CIK": 723125,
+        "Founded": "1978"
+    },
+    "MSFT": {
+        "Security": "Microsoft",
+        "GICS Sector": "Information Technology",
+        "GICS Sub-Industry": "Systems Software",
+        "Headquarters Location": "Redmond, Washington",
+        "Date added": "1994-06-01",
+        "CIK": 789019,
+        "Founded": "1975"
+    },
+    "MAA": {
+        "Security": "Mid-America Apartment Communities",
+        "GICS Sector": "Real Estate",
+        "GICS Sub-Industry": "Multi-Family Residential REITs",
+        "Headquarters Location": "Memphis, Tennessee",
+        "Date added": "2016-12-02",
+        "CIK": 912595,
+        "Founded": "1977"
+    },
+    "MHK": {
+        "Security": "Mohawk Industries",
+        "GICS Sector": "Consumer Discretionary",
+        "GICS Sub-Industry": "Home Furnishings",
+        "Headquarters Location": "Calhoun, Georgia",
+        "Date added": "2013-12-23",
+        "CIK": 851968,
+        "Founded": "1878"
+    },
+    "TAP": {
+        "Security": "Molson Coors Beverage Company",
+        "GICS Sector": "Consumer Staples",
+        "GICS Sub-Industry": "Brewers",
+        "Headquarters Location": "Chicago, Illinois",
+        "Date added": "1976-06-30",
+        "CIK": 24545,
+        "Founded": "2005 (Molson 1786, Coors 1873)"
+    },
+    "MDLZ": {
+        "Security": "Mondelez International",
+        "GICS Sector": "Consumer Staples",
+        "GICS Sub-Industry": "Packaged Foods & Meats",
+        "Headquarters Location": "Chicago, Illinois",
+        "Date added": "2012-10-02",
+        "CIK": 1103982,
+        "Founded": "2012"
+    }
+}

@@ -1,0 +1,74 @@
+{
+    "ULTA": {
+        "Security": "Ulta Beauty",
+        "GICS Sector": "Consumer Discretionary",
+        "GICS Sub-Industry": "Other Specialty Retail",
+        "Headquarters Location": "Bolingbrook, Illinois",
+        "Date added": "2016-04-18",
+        "CIK": 1403568,
+        "Founded": "1990"
+    },
+    "UNP": {
+        "Security": "Union Pacific Corporation",
+        "GICS Sector": "Industrials",
+        "GICS Sub-Industry": "Rail Transportation",
+        "Headquarters Location": "Omaha, Nebraska",
+        "Date added": "1957-03-04",
+        "CIK": 100885,
+        "Founded": "1862"
+    },
+    "UAL": {
+        "Security": "United Airlines Holdings",
+        "GICS Sector": "Industrials",
+        "GICS Sub-Industry": "Passenger Airlines",
+        "Headquarters Location": "Chicago, Illinois",
+        "Date added": "2015-09-03",
+        "CIK": 100517,
+        "Founded": "1967"
+    },
+    "UPS": {
+        "Security": "United Parcel Service",
+        "GICS Sector": "Industrials",
+        "GICS Sub-Industry": "Air Freight & Logistics",
+        "Headquarters Location": "Sandy Springs, Georgia",
+        "Date added": "2002-07-22",
+        "CIK": 1090727,
+        "Founded": "1907"
+    },
+    "URI": {
+        "Security": "United Rentals",
+        "GICS Sector": "Industrials",
+        "GICS Sub-Industry": "Trading Companies & Distributors",
+        "Headquarters Location": "Stamford, Connecticut",
+        "Date added": "2014-09-20",
+        "CIK": 1067701,
+        "Founded": "1997"
+    },
+    "UNH": {
+        "Security": "UnitedHealth Group",
+        "GICS Sector": "Health Care",
+        "GICS Sub-Industry": "Managed Health Care",
+        "Headquarters Location": "Minnetonka, Minnesota",
+        "Date added": "1994-07-01",
+        "CIK": 731766,
+        "Founded": "1977"
+    },
+    "UHS": {
+        "Security": "Universal Health Services",
+        "GICS Sector": "Health Care",
+        "GICS Sub-Industry": "Health Care Facilities",
+        "Headquarters Location": "King of Prussia, Pennsylvania",
+        "Date added": "2014-09-20",
+        "CIK": 352915,
+        "Founded": "1979"
+    },
+    "VLO": {
+        "Security": "Valero Energy",
+        "GICS Sector": "Energy",
+        "GICS Sub-Industry": "Oil & Gas Refining & Marketing",
+        "Headquarters Location": "San Antonio, Texas",
+        "Date added": "2002-12-20",
+        "CIK": 1035002,
+        "Founded": "1980"
+    }
+}

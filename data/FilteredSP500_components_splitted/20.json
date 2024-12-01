@@ -1,0 +1,74 @@
+{
+    "ESS": {
+        "Security": "Essex Property Trust",
+        "GICS Sector": "Real Estate",
+        "GICS Sub-Industry": "Multi-Family Residential REITs",
+        "Headquarters Location": "San Mateo, California",
+        "Date added": "2014-04-02",
+        "CIK": 920522,
+        "Founded": "1971"
+    },
+    "EL": {
+        "Security": "Est\u00e9e Lauder Companies (The)",
+        "GICS Sector": "Consumer Staples",
+        "GICS Sub-Industry": "Personal Care Products",
+        "Headquarters Location": "New York City, New York",
+        "Date added": "2006-01-05",
+        "CIK": 1001250,
+        "Founded": "1946"
+    },
+    "EG": {
+        "Security": "Everest Group",
+        "GICS Sector": "Financials",
+        "GICS Sub-Industry": "Reinsurance",
+        "Headquarters Location": "Hamilton, Bermuda",
+        "Date added": "2017-06-19",
+        "CIK": 1095073,
+        "Founded": "1973"
+    },
+    "EVRG": {
+        "Security": "Evergy",
+        "GICS Sector": "Utilities",
+        "GICS Sub-Industry": "Electric Utilities",
+        "Headquarters Location": "Kansas City, Missouri",
+        "Date added": "2018-06-05",
+        "CIK": 1711269,
+        "Founded": "1909"
+    },
+    "ES": {
+        "Security": "Eversource Energy",
+        "GICS Sector": "Utilities",
+        "GICS Sub-Industry": "Electric Utilities",
+        "Headquarters Location": "Hartford, Connecticut",
+        "Date added": "2009-07-24",
+        "CIK": 72741,
+        "Founded": "1966"
+    },
+    "EXC": {
+        "Security": "Exelon",
+        "GICS Sector": "Utilities",
+        "GICS Sub-Industry": "Electric Utilities",
+        "Headquarters Location": "Chicago, Illinois",
+        "Date added": "1957-03-04",
+        "CIK": 1109357,
+        "Founded": "2000"
+    },
+    "EXPE": {
+        "Security": "Expedia Group",
+        "GICS Sector": "Consumer Discretionary",
+        "GICS Sub-Industry": "Hotels, Resorts & Cruise Lines",
+        "Headquarters Location": "Seattle, Washington",
+        "Date added": "2007-10-02",
+        "CIK": 1324424,
+        "Founded": "1996"
+    },
+    "EXPD": {
+        "Security": "Expeditors International",
+        "GICS Sector": "Industrials",
+        "GICS Sub-Industry": "Air Freight & Logistics",
+        "Headquarters Location": "Seattle, Washington",
+        "Date added": "2007-10-10",
+        "CIK": 746515,
+        "Founded": "1979"
+    }
+}

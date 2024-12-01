@@ -1,0 +1,74 @@
+{
+    "PNW": {
+        "Security": "Pinnacle West",
+        "GICS Sector": "Utilities",
+        "GICS Sub-Industry": "Multi-Utilities",
+        "Headquarters Location": "Phoenix, Arizona",
+        "Date added": "1999-10-04",
+        "CIK": 764622,
+        "Founded": "1985"
+    },
+    "PNC": {
+        "Security": "PNC Financial Services",
+        "GICS Sector": "Financials",
+        "GICS Sub-Industry": "Diversified Banks",
+        "Headquarters Location": "Pittsburgh, Pennsylvania",
+        "Date added": "1988-04-30",
+        "CIK": 713676,
+        "Founded": "1845"
+    },
+    "PPG": {
+        "Security": "PPG Industries",
+        "GICS Sector": "Materials",
+        "GICS Sub-Industry": "Specialty Chemicals",
+        "Headquarters Location": "Pittsburgh, Pennsylvania",
+        "Date added": "1957-03-04",
+        "CIK": 79879,
+        "Founded": "1883"
+    },
+    "PPL": {
+        "Security": "PPL Corporation",
+        "GICS Sector": "Utilities",
+        "GICS Sub-Industry": "Electric Utilities",
+        "Headquarters Location": "Allentown, Pennsylvania",
+        "Date added": "2001-10-01",
+        "CIK": 922224,
+        "Founded": "1920"
+    },
+    "PFG": {
+        "Security": "Principal Financial Group",
+        "GICS Sector": "Financials",
+        "GICS Sub-Industry": "Life & Health Insurance",
+        "Headquarters Location": "Des Moines, Iowa",
+        "Date added": "2002-07-22",
+        "CIK": 1126328,
+        "Founded": "1879"
+    },
+    "PG": {
+        "Security": "Procter & Gamble",
+        "GICS Sector": "Consumer Staples",
+        "GICS Sub-Industry": "Personal Care Products",
+        "Headquarters Location": "Cincinnati, Ohio",
+        "Date added": "1957-03-04",
+        "CIK": 80424,
+        "Founded": "1837"
+    },
+    "PGR": {
+        "Security": "Progressive Corporation",
+        "GICS Sector": "Financials",
+        "GICS Sub-Industry": "Property & Casualty Insurance",
+        "Headquarters Location": "Mayfield Village, Ohio",
+        "Date added": "1997-08-04",
+        "CIK": 80661,
+        "Founded": "1937"
+    },
+    "PLD": {
+        "Security": "Prologis",
+        "GICS Sector": "Real Estate",
+        "GICS Sub-Industry": "Industrial REITs",
+        "Headquarters Location": "San Francisco, California",
+        "Date added": "2003-07-17",
+        "CIK": 1045609,
+        "Founded": "1983"
+    }
+}

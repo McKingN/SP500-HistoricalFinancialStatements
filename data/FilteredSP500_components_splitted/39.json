@@ -1,0 +1,74 @@
+{
+    "OXY": {
+        "Security": "Occidental Petroleum",
+        "GICS Sector": "Energy",
+        "GICS Sub-Industry": "Oil & Gas Exploration & Production",
+        "Headquarters Location": "Houston, Texas",
+        "Date added": "1957-03-04",
+        "CIK": 797468,
+        "Founded": "1920"
+    },
+    "ODFL": {
+        "Security": "Old Dominion",
+        "GICS Sector": "Industrials",
+        "GICS Sub-Industry": "Cargo Ground Transportation",
+        "Headquarters Location": "Thomasville, North Carolina",
+        "Date added": "2019-12-09",
+        "CIK": 878927,
+        "Founded": "1934"
+    },
+    "OMC": {
+        "Security": "Omnicom Group",
+        "GICS Sector": "Communication Services",
+        "GICS Sub-Industry": "Advertising",
+        "Headquarters Location": "New York City, New York",
+        "Date added": "1997-12-31",
+        "CIK": 29989,
+        "Founded": "1986"
+    },
+    "OKE": {
+        "Security": "ONEOK",
+        "GICS Sector": "Energy",
+        "GICS Sub-Industry": "Oil & Gas Storage & Transportation",
+        "Headquarters Location": "Tulsa, Oklahoma",
+        "Date added": "2010-03-15",
+        "CIK": 1039684,
+        "Founded": "1906"
+    },
+    "ORCL": {
+        "Security": "Oracle Corporation",
+        "GICS Sector": "Information Technology",
+        "GICS Sub-Industry": "Application Software",
+        "Headquarters Location": "Austin, Texas",
+        "Date added": "1989-08-31",
+        "CIK": 1341439,
+        "Founded": "1977"
+    },
+    "PCAR": {
+        "Security": "Paccar",
+        "GICS Sector": "Industrials",
+        "GICS Sub-Industry": "Construction Machinery & Heavy Transportation Equipment",
+        "Headquarters Location": "Bellevue, Washington",
+        "Date added": "1980-12-31",
+        "CIK": 75362,
+        "Founded": "1905"
+    },
+    "PKG": {
+        "Security": "Packaging Corporation of America",
+        "GICS Sector": "Materials",
+        "GICS Sub-Industry": "Paper & Plastic Packaging Products & Materials",
+        "Headquarters Location": "Lake Forest, Illinois",
+        "Date added": "2017-07-26",
+        "CIK": 75677,
+        "Founded": "1959"
+    },
+    "PARA": {
+        "Security": "Paramount Global",
+        "GICS Sector": "Communication Services",
+        "GICS Sub-Industry": "Movies & Entertainment",
+        "Headquarters Location": "New York City, New York",
+        "Date added": "1994-09-30",
+        "CIK": 813828,
+        "Founded": "2019 (Paramount Pictures 1912)"
+    }
+}

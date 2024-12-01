@@ -1,0 +1,74 @@
+{
+    "SWKS": {
+        "Security": "Skyworks Solutions",
+        "GICS Sector": "Information Technology",
+        "GICS Sub-Industry": "Semiconductors",
+        "Headquarters Location": "Irvine, California",
+        "Date added": "2015-03-12",
+        "CIK": 4127,
+        "Founded": "2002"
+    },
+    "SJM": {
+        "Security": "J.M. Smucker Company (The)",
+        "GICS Sector": "Consumer Staples",
+        "GICS Sub-Industry": "Packaged Foods & Meats",
+        "Headquarters Location": "Orrville, Ohio",
+        "Date added": "2008-11-06",
+        "CIK": 91419,
+        "Founded": "1897"
+    },
+    "SNA": {
+        "Security": "Snap-on",
+        "GICS Sector": "Industrials",
+        "GICS Sub-Industry": "Industrial Machinery & Supplies & Components",
+        "Headquarters Location": "Kenosha, Wisconsin",
+        "Date added": "1982-09-30",
+        "CIK": 91440,
+        "Founded": "1920"
+    },
+    "SO": {
+        "Security": "Southern Company",
+        "GICS Sector": "Utilities",
+        "GICS Sub-Industry": "Electric Utilities",
+        "Headquarters Location": "Atlanta, Georgia",
+        "Date added": "1957-03-04",
+        "CIK": 92122,
+        "Founded": "1945"
+    },
+    "LUV": {
+        "Security": "Southwest Airlines",
+        "GICS Sector": "Industrials",
+        "GICS Sub-Industry": "Passenger Airlines",
+        "Headquarters Location": "Dallas, Texas",
+        "Date added": "1994-07-01",
+        "CIK": 92380,
+        "Founded": "1967"
+    },
+    "SWK": {
+        "Security": "Stanley Black & Decker",
+        "GICS Sector": "Industrials",
+        "GICS Sub-Industry": "Industrial Machinery & Supplies & Components",
+        "Headquarters Location": "New Britain, Connecticut",
+        "Date added": "1982-09-30",
+        "CIK": 93556,
+        "Founded": "1843"
+    },
+    "SBUX": {
+        "Security": "Starbucks",
+        "GICS Sector": "Consumer Discretionary",
+        "GICS Sub-Industry": "Restaurants",
+        "Headquarters Location": "Seattle, Washington",
+        "Date added": "2000-06-07",
+        "CIK": 829224,
+        "Founded": "1971"
+    },
+    "STT": {
+        "Security": "State Street Corporation",
+        "GICS Sector": "Financials",
+        "GICS Sub-Industry": "Asset Management & Custody Banks",
+        "Headquarters Location": "Boston, Massachusetts",
+        "Date added": "2003-03-14",
+        "CIK": 93751,
+        "Founded": "1792"
+    }
+}

@@ -1,0 +1,74 @@
+{
+    "STE": {
+        "Security": "Steris",
+        "GICS Sector": "Health Care",
+        "GICS Sub-Industry": "Health Care Equipment",
+        "Headquarters Location": "Dublin, Ireland",
+        "Date added": "2019-12-23",
+        "CIK": 1757898,
+        "Founded": "1985"
+    },
+    "SYK": {
+        "Security": "Stryker Corporation",
+        "GICS Sector": "Health Care",
+        "GICS Sub-Industry": "Health Care Equipment",
+        "Headquarters Location": "Kalamazoo, Michigan",
+        "Date added": "2000-12-12",
+        "CIK": 310764,
+        "Founded": "1941"
+    },
+    "SYF": {
+        "Security": "Synchrony Financial",
+        "GICS Sector": "Financials",
+        "GICS Sub-Industry": "Consumer Finance",
+        "Headquarters Location": "Stamford, Connecticut",
+        "Date added": "2015-11-18",
+        "CIK": 1601712,
+        "Founded": "2003"
+    },
+    "SNPS": {
+        "Security": "Synopsys",
+        "GICS Sector": "Information Technology",
+        "GICS Sub-Industry": "Application Software",
+        "Headquarters Location": "Sunnyvale, California",
+        "Date added": "2017-03-16",
+        "CIK": 883241,
+        "Founded": "1986"
+    },
+    "SYY": {
+        "Security": "Sysco",
+        "GICS Sector": "Consumer Staples",
+        "GICS Sub-Industry": "Food Distributors",
+        "Headquarters Location": "Houston, Texas",
+        "Date added": "1986-12-31",
+        "CIK": 96021,
+        "Founded": "1969"
+    },
+    "TMUS": {
+        "Security": "T-Mobile US",
+        "GICS Sector": "Communication Services",
+        "GICS Sub-Industry": "Wireless Telecommunication Services",
+        "Headquarters Location": "Bellevue, Washington",
+        "Date added": "2019-07-15",
+        "CIK": 1283699,
+        "Founded": "1994"
+    },
+    "TROW": {
+        "Security": "T. Rowe Price",
+        "GICS Sector": "Financials",
+        "GICS Sub-Industry": "Asset Management & Custody Banks",
+        "Headquarters Location": "Baltimore, Maryland",
+        "Date added": "2019-07-29",
+        "CIK": 1113169,
+        "Founded": "1937"
+    },
+    "TTWO": {
+        "Security": "Take-Two Interactive",
+        "GICS Sector": "Communication Services",
+        "GICS Sub-Industry": "Interactive Home Entertainment",
+        "Headquarters Location": "New York City, New York",
+        "Date added": "2018-03-19",
+        "CIK": 946581,
+        "Founded": "1993"
+    }
+}

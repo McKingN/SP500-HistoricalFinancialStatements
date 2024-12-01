@@ -1,0 +1,74 @@
+{
+    "CDW": {
+        "Security": "CDW",
+        "GICS Sector": "Information Technology",
+        "GICS Sub-Industry": "Technology Distributors",
+        "Headquarters Location": "Vernon Hills, Illinois",
+        "Date added": "2019-09-23",
+        "CIK": 1402057,
+        "Founded": "1984"
+    },
+    "CE": {
+        "Security": "Celanese",
+        "GICS Sector": "Materials",
+        "GICS Sub-Industry": "Specialty Chemicals",
+        "Headquarters Location": "Irving, Texas",
+        "Date added": "2018-12-24",
+        "CIK": 1306830,
+        "Founded": "1918"
+    },
+    "COR": {
+        "Security": "Cencora",
+        "GICS Sector": "Health Care",
+        "GICS Sub-Industry": "Health Care Distributors",
+        "Headquarters Location": "Conshohocken, Pennsylvania",
+        "Date added": "2001-08-30",
+        "CIK": 1140859,
+        "Founded": "1985"
+    },
+    "CNC": {
+        "Security": "Centene Corporation",
+        "GICS Sector": "Health Care",
+        "GICS Sub-Industry": "Managed Health Care",
+        "Headquarters Location": "St. Louis, Missouri",
+        "Date added": "2016-03-30",
+        "CIK": 1071739,
+        "Founded": "1984"
+    },
+    "CNP": {
+        "Security": "CenterPoint Energy",
+        "GICS Sector": "Utilities",
+        "GICS Sub-Industry": "Multi-Utilities",
+        "Headquarters Location": "Houston, Texas",
+        "Date added": "1985-07-31",
+        "CIK": 1130310,
+        "Founded": "1882"
+    },
+    "CF": {
+        "Security": "CF Industries",
+        "GICS Sector": "Materials",
+        "GICS Sub-Industry": "Fertilizers & Agricultural Chemicals",
+        "Headquarters Location": "Deerfield, Illinois",
+        "Date added": "2008-08-27",
+        "CIK": 1324404,
+        "Founded": "1946"
+    },
+    "SCHW": {
+        "Security": "Charles Schwab Corporation",
+        "GICS Sector": "Financials",
+        "GICS Sub-Industry": "Investment Banking & Brokerage",
+        "Headquarters Location": "Westlake, Texas",
+        "Date added": "1997-06-02",
+        "CIK": 316709,
+        "Founded": "1971"
+    },
+    "CHTR": {
+        "Security": "Charter Communications",
+        "GICS Sector": "Communication Services",
+        "GICS Sub-Industry": "Cable & Satellite",
+        "Headquarters Location": "Stamford, Connecticut",
+        "Date added": "2016-09-08",
+        "CIK": 1091667,
+        "Founded": "1993"
+    }
+}

@@ -1,0 +1,74 @@
+{
+    "FE": {
+        "Security": "FirstEnergy",
+        "GICS Sector": "Utilities",
+        "GICS Sub-Industry": "Electric Utilities",
+        "Headquarters Location": "Akron, Ohio",
+        "Date added": "1997-11-28",
+        "CIK": 1031296,
+        "Founded": "1997"
+    },
+    "FI": {
+        "Security": "Fiserv",
+        "GICS Sector": "Financials",
+        "GICS Sub-Industry": "Transaction & Payment Processing Services",
+        "Headquarters Location": "Brookfield, Wisconsin",
+        "Date added": "2001-04-02",
+        "CIK": 798354,
+        "Founded": "1984"
+    },
+    "FMC": {
+        "Security": "FMC Corporation",
+        "GICS Sector": "Materials",
+        "GICS Sub-Industry": "Fertilizers & Agricultural Chemicals",
+        "Headquarters Location": "Philadelphia, Pennsylvania",
+        "Date added": "2009-08-19",
+        "CIK": 37785,
+        "Founded": "1883"
+    },
+    "F": {
+        "Security": "Ford Motor Company",
+        "GICS Sector": "Consumer Discretionary",
+        "GICS Sub-Industry": "Automobile Manufacturers",
+        "Headquarters Location": "Dearborn, Michigan",
+        "Date added": "1957-03-04",
+        "CIK": 37996,
+        "Founded": "1903"
+    },
+    "FTNT": {
+        "Security": "Fortinet",
+        "GICS Sector": "Information Technology",
+        "GICS Sub-Industry": "Systems Software",
+        "Headquarters Location": "Sunnyvale, California",
+        "Date added": "2018-10-11",
+        "CIK": 1262039,
+        "Founded": "2000"
+    },
+    "FTV": {
+        "Security": "Fortive",
+        "GICS Sector": "Industrials",
+        "GICS Sub-Industry": "Industrial Machinery & Supplies & Components",
+        "Headquarters Location": "Everett, Washington",
+        "Date added": "2016-07-01",
+        "CIK": 1659166,
+        "Founded": "2016"
+    },
+    "FOXA": {
+        "Security": "Fox Corporation (Class A)",
+        "GICS Sector": "Communication Services",
+        "GICS Sub-Industry": "Broadcasting",
+        "Headquarters Location": "New York City, New York",
+        "Date added": "2019-03-04",
+        "CIK": 1754301,
+        "Founded": "2019"
+    },
+    "FOX": {
+        "Security": "Fox Corporation (Class B)",
+        "GICS Sector": "Communication Services",
+        "GICS Sub-Industry": "Broadcasting",
+        "Headquarters Location": "New York City, New York",
+        "Date added": "2019-03-04",
+        "CIK": 1754301,
+        "Founded": "2019"
+    }
+}

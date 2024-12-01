@@ -1,0 +1,74 @@
+{
+    "DHR": {
+        "Security": "Danaher Corporation",
+        "GICS Sector": "Health Care",
+        "GICS Sub-Industry": "Life Sciences Tools & Services",
+        "Headquarters Location": "Washington, D.C.",
+        "Date added": "1998-11-18",
+        "CIK": 313616,
+        "Founded": "1969"
+    },
+    "DRI": {
+        "Security": "Darden Restaurants",
+        "GICS Sector": "Consumer Discretionary",
+        "GICS Sub-Industry": "Restaurants",
+        "Headquarters Location": "Orlando, Florida",
+        "Date added": "1995-05-31",
+        "CIK": 940944,
+        "Founded": "1938"
+    },
+    "DVA": {
+        "Security": "DaVita",
+        "GICS Sector": "Health Care",
+        "GICS Sub-Industry": "Health Care Services",
+        "Headquarters Location": "Denver, Colorado",
+        "Date added": "2008-07-31",
+        "CIK": 927066,
+        "Founded": "1979"
+    },
+    "DE": {
+        "Security": "Deere & Company",
+        "GICS Sector": "Industrials",
+        "GICS Sub-Industry": "Agricultural & Farm Machinery",
+        "Headquarters Location": "Moline, Illinois",
+        "Date added": "1957-03-04",
+        "CIK": 315189,
+        "Founded": "1837"
+    },
+    "DAL": {
+        "Security": "Delta Air Lines",
+        "GICS Sector": "Industrials",
+        "GICS Sub-Industry": "Passenger Airlines",
+        "Headquarters Location": "Atlanta, Georgia",
+        "Date added": "2013-09-11",
+        "CIK": 27904,
+        "Founded": "1929"
+    },
+    "DVN": {
+        "Security": "Devon Energy",
+        "GICS Sector": "Energy",
+        "GICS Sub-Industry": "Oil & Gas Exploration & Production",
+        "Headquarters Location": "Oklahoma City, Oklahoma",
+        "Date added": "2000-08-30",
+        "CIK": 1090012,
+        "Founded": "1971"
+    },
+    "FANG": {
+        "Security": "Diamondback Energy",
+        "GICS Sector": "Energy",
+        "GICS Sub-Industry": "Oil & Gas Exploration & Production",
+        "Headquarters Location": "Midland, Texas",
+        "Date added": "2018-12-03",
+        "CIK": 1539838,
+        "Founded": "2007"
+    },
+    "DLR": {
+        "Security": "Digital Realty",
+        "GICS Sector": "Real Estate",
+        "GICS Sub-Industry": "Data Center REITs",
+        "Headquarters Location": "Austin, Texas",
+        "Date added": "2016-05-18",
+        "CIK": 1297996,
+        "Founded": "2004"
+    }
+}

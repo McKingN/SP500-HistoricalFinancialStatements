@@ -1,0 +1,74 @@
+{
+    "AFL": {
+        "Security": "Aflac",
+        "GICS Sector": "Financials",
+        "GICS Sub-Industry": "Life & Health Insurance",
+        "Headquarters Location": "Columbus, Georgia",
+        "Date added": "1999-05-28",
+        "CIK": 4977,
+        "Founded": "1955"
+    },
+    "A": {
+        "Security": "Agilent Technologies",
+        "GICS Sector": "Health Care",
+        "GICS Sub-Industry": "Life Sciences Tools & Services",
+        "Headquarters Location": "Santa Clara, California",
+        "Date added": "2000-06-05",
+        "CIK": 1090872,
+        "Founded": "1999"
+    },
+    "APD": {
+        "Security": "Air Products",
+        "GICS Sector": "Materials",
+        "GICS Sub-Industry": "Industrial Gases",
+        "Headquarters Location": "Upper Macungie Township, Pennsylvania",
+        "Date added": "1985-04-30",
+        "CIK": 2969,
+        "Founded": "1940"
+    },
+    "AKAM": {
+        "Security": "Akamai Technologies",
+        "GICS Sector": "Information Technology",
+        "GICS Sub-Industry": "Internet Services & Infrastructure",
+        "Headquarters Location": "Cambridge, Massachusetts",
+        "Date added": "2007-07-12",
+        "CIK": 1086222,
+        "Founded": "1998"
+    },
+    "ALB": {
+        "Security": "Albemarle Corporation",
+        "GICS Sector": "Materials",
+        "GICS Sub-Industry": "Specialty Chemicals",
+        "Headquarters Location": "Charlotte, North Carolina",
+        "Date added": "2016-07-01",
+        "CIK": 915913,
+        "Founded": "1994"
+    },
+    "ARE": {
+        "Security": "Alexandria Real Estate Equities",
+        "GICS Sector": "Real Estate",
+        "GICS Sub-Industry": "Office REITs",
+        "Headquarters Location": "Pasadena, California",
+        "Date added": "2017-03-20",
+        "CIK": 1035443,
+        "Founded": "1994"
+    },
+    "ALGN": {
+        "Security": "Align Technology",
+        "GICS Sector": "Health Care",
+        "GICS Sub-Industry": "Health Care Supplies",
+        "Headquarters Location": "Tempe, Arizona",
+        "Date added": "2017-06-19",
+        "CIK": 1097149,
+        "Founded": "1997"
+    },
+    "ALLE": {
+        "Security": "Allegion",
+        "GICS Sector": "Industrials",
+        "GICS Sub-Industry": "Building Products",
+        "Headquarters Location": "Dublin, Ireland",
+        "Date added": "2013-12-02",
+        "CIK": 1579241,
+        "Founded": "1908"
+    }
+}

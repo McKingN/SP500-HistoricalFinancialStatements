@@ -1,0 +1,74 @@
+{
+    "MKC": {
+        "Security": "McCormick & Company",
+        "GICS Sector": "Consumer Staples",
+        "GICS Sub-Industry": "Packaged Foods & Meats",
+        "Headquarters Location": "Hunt Valley, Maryland",
+        "Date added": "2003-03-20",
+        "CIK": 63754,
+        "Founded": "1889"
+    },
+    "MCD": {
+        "Security": "McDonald's",
+        "GICS Sector": "Consumer Discretionary",
+        "GICS Sub-Industry": "Restaurants",
+        "Headquarters Location": "Chicago, Illinois",
+        "Date added": "1970-06-30",
+        "CIK": 63908,
+        "Founded": "1940"
+    },
+    "MCK": {
+        "Security": "McKesson Corporation",
+        "GICS Sector": "Health Care",
+        "GICS Sub-Industry": "Health Care Distributors",
+        "Headquarters Location": "Irving, Texas",
+        "Date added": "1999-01-13",
+        "CIK": 927653,
+        "Founded": "1833"
+    },
+    "MDT": {
+        "Security": "Medtronic",
+        "GICS Sector": "Health Care",
+        "GICS Sub-Industry": "Health Care Equipment",
+        "Headquarters Location": "Dublin, Ireland",
+        "Date added": "1986-10-31",
+        "CIK": 1613103,
+        "Founded": "1949"
+    },
+    "MRK": {
+        "Security": "Merck & Co.",
+        "GICS Sector": "Health Care",
+        "GICS Sub-Industry": "Pharmaceuticals",
+        "Headquarters Location": "Kenilworth, New Jersey",
+        "Date added": "1957-03-04",
+        "CIK": 310158,
+        "Founded": "1891"
+    },
+    "META": {
+        "Security": "Meta Platforms",
+        "GICS Sector": "Communication Services",
+        "GICS Sub-Industry": "Interactive Media & Services",
+        "Headquarters Location": "Menlo Park, California",
+        "Date added": "2013-12-23",
+        "CIK": 1326801,
+        "Founded": "2004"
+    },
+    "MET": {
+        "Security": "MetLife",
+        "GICS Sector": "Financials",
+        "GICS Sub-Industry": "Life & Health Insurance",
+        "Headquarters Location": "New York City, New York",
+        "Date added": "2000-12-11",
+        "CIK": 1099219,
+        "Founded": "1868"
+    },
+    "MTD": {
+        "Security": "Mettler Toledo",
+        "GICS Sector": "Health Care",
+        "GICS Sub-Industry": "Life Sciences Tools & Services",
+        "Headquarters Location": "Columbus, Ohio",
+        "Date added": "2016-09-06",
+        "CIK": 1037646,
+        "Founded": "1945"
+    }
+}

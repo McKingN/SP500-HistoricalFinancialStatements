@@ -1,0 +1,74 @@
+{
+    "CMCSA": {
+        "Security": "Comcast",
+        "GICS Sector": "Communication Services",
+        "GICS Sub-Industry": "Cable & Satellite",
+        "Headquarters Location": "Philadelphia, Pennsylvania",
+        "Date added": "2002-11-19",
+        "CIK": 1166691,
+        "Founded": "1963"
+    },
+    "CAG": {
+        "Security": "Conagra Brands",
+        "GICS Sector": "Consumer Staples",
+        "GICS Sub-Industry": "Packaged Foods & Meats",
+        "Headquarters Location": "Chicago, Illinois",
+        "Date added": "1983-08-31",
+        "CIK": 23217,
+        "Founded": "1919"
+    },
+    "COP": {
+        "Security": "ConocoPhillips",
+        "GICS Sector": "Energy",
+        "GICS Sub-Industry": "Oil & Gas Exploration & Production",
+        "Headquarters Location": "Houston, Texas",
+        "Date added": "1957-03-04",
+        "CIK": 1163165,
+        "Founded": "2002"
+    },
+    "ED": {
+        "Security": "Consolidated Edison",
+        "GICS Sector": "Utilities",
+        "GICS Sub-Industry": "Multi-Utilities",
+        "Headquarters Location": "New York City, New York",
+        "Date added": "1957-03-04",
+        "CIK": 1047862,
+        "Founded": "1823"
+    },
+    "STZ": {
+        "Security": "Constellation Brands",
+        "GICS Sector": "Consumer Staples",
+        "GICS Sub-Industry": "Distillers & Vintners",
+        "Headquarters Location": "Rochester, New York",
+        "Date added": "2005-07-01",
+        "CIK": 16918,
+        "Founded": "1945"
+    },
+    "COO": {
+        "Security": "Cooper Companies (The)",
+        "GICS Sector": "Health Care",
+        "GICS Sub-Industry": "Health Care Supplies",
+        "Headquarters Location": "San Ramon, California",
+        "Date added": "2016-09-23",
+        "CIK": 711404,
+        "Founded": "1958"
+    },
+    "CPRT": {
+        "Security": "Copart",
+        "GICS Sector": "Industrials",
+        "GICS Sub-Industry": "Diversified Support Services",
+        "Headquarters Location": "Dallas, Texas",
+        "Date added": "2018-07-02",
+        "CIK": 900075,
+        "Founded": "1982"
+    },
+    "GLW": {
+        "Security": "Corning Inc.",
+        "GICS Sector": "Information Technology",
+        "GICS Sub-Industry": "Electronic Components",
+        "Headquarters Location": "Corning, New York",
+        "Date added": "1995-02-27",
+        "CIK": 24741,
+        "Founded": "1851"
+    }
+}

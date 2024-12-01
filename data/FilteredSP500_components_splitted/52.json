@@ -1,0 +1,74 @@
+{
+    "WRB": {
+        "Security": "W. R. Berkley Corporation",
+        "GICS Sector": "Financials",
+        "GICS Sub-Industry": "Property & Casualty Insurance",
+        "Headquarters Location": "Greenwich, Connecticut",
+        "Date added": "2019-12-05",
+        "CIK": 11544,
+        "Founded": "1967"
+    },
+    "GWW": {
+        "Security": "W. W. Grainger",
+        "GICS Sector": "Industrials",
+        "GICS Sub-Industry": "Industrial Machinery & Supplies & Components",
+        "Headquarters Location": "Lake Forest, Illinois",
+        "Date added": "1981-06-30",
+        "CIK": 277135,
+        "Founded": "1927"
+    },
+    "WAB": {
+        "Security": "Wabtec",
+        "GICS Sector": "Industrials",
+        "GICS Sub-Industry": "Construction Machinery & Heavy Transportation Equipment",
+        "Headquarters Location": "Pittsburgh, Pennsylvania",
+        "Date added": "2019-02-27",
+        "CIK": 943452,
+        "Founded": "1999 (1869)"
+    },
+    "WBA": {
+        "Security": "Walgreens Boots Alliance",
+        "GICS Sector": "Consumer Staples",
+        "GICS Sub-Industry": "Drug Retail",
+        "Headquarters Location": "Deerfield, Illinois",
+        "Date added": "1979-12-31",
+        "CIK": 1618921,
+        "Founded": "2014"
+    },
+    "WMT": {
+        "Security": "Walmart",
+        "GICS Sector": "Consumer Staples",
+        "GICS Sub-Industry": "Consumer Staples Merchandise Retail",
+        "Headquarters Location": "Bentonville, Arkansas",
+        "Date added": "1982-08-31",
+        "CIK": 104169,
+        "Founded": "1962"
+    },
+    "DIS": {
+        "Security": "Walt Disney Company (The)",
+        "GICS Sector": "Communication Services",
+        "GICS Sub-Industry": "Movies & Entertainment",
+        "Headquarters Location": "Burbank, California",
+        "Date added": "1976-06-30",
+        "CIK": 1744489,
+        "Founded": "1923"
+    },
+    "WM": {
+        "Security": "Waste Management",
+        "GICS Sector": "Industrials",
+        "GICS Sub-Industry": "Environmental & Facilities Services",
+        "Headquarters Location": "Houston, Texas",
+        "Date added": "1998-08-31",
+        "CIK": 823768,
+        "Founded": "1968"
+    },
+    "WAT": {
+        "Security": "Waters Corporation",
+        "GICS Sector": "Health Care",
+        "GICS Sub-Industry": "Life Sciences Tools & Services",
+        "Headquarters Location": "Milford, Massachusetts",
+        "Date added": "2002-01-02",
+        "CIK": 1000697,
+        "Founded": "1958"
+    }
+}

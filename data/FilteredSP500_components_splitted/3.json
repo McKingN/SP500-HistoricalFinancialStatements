@@ -1,0 +1,74 @@
+{
+    "LNT": {
+        "Security": "Alliant Energy",
+        "GICS Sector": "Utilities",
+        "GICS Sub-Industry": "Electric Utilities",
+        "Headquarters Location": "Madison, Wisconsin",
+        "Date added": "2016-07-01",
+        "CIK": 352541,
+        "Founded": "1917"
+    },
+    "ALL": {
+        "Security": "Allstate",
+        "GICS Sector": "Financials",
+        "GICS Sub-Industry": "Property & Casualty Insurance",
+        "Headquarters Location": "Northbrook, Illinois",
+        "Date added": "1995-07-13",
+        "CIK": 899051,
+        "Founded": "1931"
+    },
+    "GOOGL": {
+        "Security": "Alphabet Inc. (Class A)",
+        "GICS Sector": "Communication Services",
+        "GICS Sub-Industry": "Interactive Media & Services",
+        "Headquarters Location": "Mountain View, California",
+        "Date added": "2014-04-03",
+        "CIK": 1652044,
+        "Founded": "1998"
+    },
+    "GOOG": {
+        "Security": "Alphabet Inc. (Class C)",
+        "GICS Sector": "Communication Services",
+        "GICS Sub-Industry": "Interactive Media & Services",
+        "Headquarters Location": "Mountain View, California",
+        "Date added": "2006-04-03",
+        "CIK": 1652044,
+        "Founded": "1998"
+    },
+    "MO": {
+        "Security": "Altria",
+        "GICS Sector": "Consumer Staples",
+        "GICS Sub-Industry": "Tobacco",
+        "Headquarters Location": "Richmond, Virginia",
+        "Date added": "1957-03-04",
+        "CIK": 764180,
+        "Founded": "1985"
+    },
+    "AMZN": {
+        "Security": "Amazon",
+        "GICS Sector": "Consumer Discretionary",
+        "GICS Sub-Industry": "Broadline Retail",
+        "Headquarters Location": "Seattle, Washington",
+        "Date added": "2005-11-18",
+        "CIK": 1018724,
+        "Founded": "1994"
+    },
+    "AMCR": {
+        "Security": "Amcor",
+        "GICS Sector": "Materials",
+        "GICS Sub-Industry": "Paper & Plastic Packaging Products & Materials",
+        "Headquarters Location": "Warmley, Bristol, United Kingdom",
+        "Date added": "2019-06-07",
+        "CIK": 1748790,
+        "Founded": "2019 (1860)"
+    },
+    "AEE": {
+        "Security": "Ameren",
+        "GICS Sector": "Utilities",
+        "GICS Sub-Industry": "Multi-Utilities",
+        "Headquarters Location": "St. Louis, Missouri",
+        "Date added": "1991-09-19",
+        "CIK": 1002910,
+        "Founded": "1902"
+    }
+}

@@ -1,0 +1,74 @@
+{
+    "ADM": {
+        "Security": "Archer Daniels Midland",
+        "GICS Sector": "Consumer Staples",
+        "GICS Sub-Industry": "Agricultural Products & Services",
+        "Headquarters Location": "Chicago, Illinois",
+        "Date added": "1957-03-04",
+        "CIK": 7084,
+        "Founded": "1902"
+    },
+    "ANET": {
+        "Security": "Arista Networks",
+        "GICS Sector": "Information Technology",
+        "GICS Sub-Industry": "Communications Equipment",
+        "Headquarters Location": "Santa Clara, California",
+        "Date added": "2018-08-28",
+        "CIK": 1596532,
+        "Founded": "2004"
+    },
+    "AJG": {
+        "Security": "Arthur J. Gallagher & Co.",
+        "GICS Sector": "Financials",
+        "GICS Sub-Industry": "Insurance Brokers",
+        "Headquarters Location": "Rolling Meadows, Illinois",
+        "Date added": "2016-05-31",
+        "CIK": 354190,
+        "Founded": "1927"
+    },
+    "AIZ": {
+        "Security": "Assurant",
+        "GICS Sector": "Financials",
+        "GICS Sub-Industry": "Multi-line Insurance",
+        "Headquarters Location": "Atlanta, Georgia",
+        "Date added": "2007-04-10",
+        "CIK": 1267238,
+        "Founded": "1892"
+    },
+    "T": {
+        "Security": "AT&T",
+        "GICS Sector": "Communication Services",
+        "GICS Sub-Industry": "Integrated Telecommunication Services",
+        "Headquarters Location": "Dallas, Texas",
+        "Date added": "1983-11-30",
+        "CIK": 732717,
+        "Founded": "1983 (1885)"
+    },
+    "ATO": {
+        "Security": "Atmos Energy",
+        "GICS Sector": "Utilities",
+        "GICS Sub-Industry": "Gas Utilities",
+        "Headquarters Location": "Dallas, Texas",
+        "Date added": "2019-02-15",
+        "CIK": 731802,
+        "Founded": "1906"
+    },
+    "ADSK": {
+        "Security": "Autodesk",
+        "GICS Sector": "Information Technology",
+        "GICS Sub-Industry": "Application Software",
+        "Headquarters Location": "San Francisco, California",
+        "Date added": "1989-12-01",
+        "CIK": 769397,
+        "Founded": "1982"
+    },
+    "ADP": {
+        "Security": "Automatic Data Processing",
+        "GICS Sector": "Industrials",
+        "GICS Sub-Industry": "Human Resource & Employment Services",
+        "Headquarters Location": "Roseland, New Jersey",
+        "Date added": "1981-03-31",
+        "CIK": 8670,
+        "Founded": "1949"
+    }
+}

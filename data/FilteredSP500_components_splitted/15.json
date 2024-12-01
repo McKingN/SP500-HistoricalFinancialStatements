@@ -1,0 +1,74 @@
+{
+    "CPAY": {
+        "Security": "Corpay",
+        "GICS Sector": "Financials",
+        "GICS Sub-Industry": "Transaction & Payment Processing Services",
+        "Headquarters Location": "Atlanta, Georgia",
+        "Date added": "2018-06-20",
+        "CIK": 1175454,
+        "Founded": "2000"
+    },
+    "CTVA": {
+        "Security": "Corteva",
+        "GICS Sector": "Materials",
+        "GICS Sub-Industry": "Fertilizers & Agricultural Chemicals",
+        "Headquarters Location": "Indianapolis, Indiana",
+        "Date added": "2019-06-03",
+        "CIK": 1755672,
+        "Founded": "2019"
+    },
+    "COST": {
+        "Security": "Costco",
+        "GICS Sector": "Consumer Staples",
+        "GICS Sub-Industry": "Consumer Staples Merchandise Retail",
+        "Headquarters Location": "Issaquah, Washington",
+        "Date added": "1993-10-01",
+        "CIK": 909832,
+        "Founded": "1976"
+    },
+    "CTRA": {
+        "Security": "Coterra",
+        "GICS Sector": "Energy",
+        "GICS Sub-Industry": "Oil & Gas Exploration & Production",
+        "Headquarters Location": "Houston, Texas",
+        "Date added": "2008-06-23",
+        "CIK": 858470,
+        "Founded": "2021 (1989)"
+    },
+    "CCI": {
+        "Security": "Crown Castle",
+        "GICS Sector": "Real Estate",
+        "GICS Sub-Industry": "Telecom Tower REITs",
+        "Headquarters Location": "Houston, Texas",
+        "Date added": "2012-03-14",
+        "CIK": 1051470,
+        "Founded": "1994"
+    },
+    "CSX": {
+        "Security": "CSX Corporation",
+        "GICS Sector": "Industrials",
+        "GICS Sub-Industry": "Rail Transportation",
+        "Headquarters Location": "Jacksonville, Florida",
+        "Date added": "1957-03-04",
+        "CIK": 277948,
+        "Founded": "1980"
+    },
+    "CMI": {
+        "Security": "Cummins",
+        "GICS Sector": "Industrials",
+        "GICS Sub-Industry": "Construction Machinery & Heavy Transportation Equipment",
+        "Headquarters Location": "Columbus, Indiana",
+        "Date added": "1965-03-31",
+        "CIK": 26172,
+        "Founded": "1919"
+    },
+    "CVS": {
+        "Security": "CVS Health",
+        "GICS Sector": "Health Care",
+        "GICS Sub-Industry": "Health Care Services",
+        "Headquarters Location": "Woonsocket, Rhode Island",
+        "Date added": "1957-03-04",
+        "CIK": 64803,
+        "Founded": "1996"
+    }
+}

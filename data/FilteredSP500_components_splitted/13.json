@@ -1,0 +1,74 @@
+{
+    "C": {
+        "Security": "Citigroup",
+        "GICS Sector": "Financials",
+        "GICS Sub-Industry": "Diversified Banks",
+        "Headquarters Location": "New York City, New York",
+        "Date added": "1988-05-31",
+        "CIK": 831001,
+        "Founded": "1998"
+    },
+    "CFG": {
+        "Security": "Citizens Financial Group",
+        "GICS Sector": "Financials",
+        "GICS Sub-Industry": "Regional Banks",
+        "Headquarters Location": "Providence, Rhode Island",
+        "Date added": "2016-01-29",
+        "CIK": 759944,
+        "Founded": "1828"
+    },
+    "CLX": {
+        "Security": "Clorox",
+        "GICS Sector": "Consumer Staples",
+        "GICS Sub-Industry": "Household Products",
+        "Headquarters Location": "Oakland, California",
+        "Date added": "1969-03-31",
+        "CIK": 21076,
+        "Founded": "1913"
+    },
+    "CME": {
+        "Security": "CME Group",
+        "GICS Sector": "Financials",
+        "GICS Sub-Industry": "Financial Exchanges & Data",
+        "Headquarters Location": "Chicago, Illinois",
+        "Date added": "2006-08-11",
+        "CIK": 1156375,
+        "Founded": "1848"
+    },
+    "CMS": {
+        "Security": "CMS Energy",
+        "GICS Sector": "Utilities",
+        "GICS Sub-Industry": "Multi-Utilities",
+        "Headquarters Location": "Jackson, Michigan",
+        "Date added": "1957-03-04",
+        "CIK": 811156,
+        "Founded": "1886"
+    },
+    "KO": {
+        "Security": "Coca-Cola Company (The)",
+        "GICS Sector": "Consumer Staples",
+        "GICS Sub-Industry": "Soft Drinks & Non-alcoholic Beverages",
+        "Headquarters Location": "Atlanta, Georgia",
+        "Date added": "1957-03-04",
+        "CIK": 21344,
+        "Founded": "1886"
+    },
+    "CTSH": {
+        "Security": "Cognizant",
+        "GICS Sector": "Information Technology",
+        "GICS Sub-Industry": "IT Consulting & Other Services",
+        "Headquarters Location": "Teaneck, New Jersey",
+        "Date added": "2006-11-17",
+        "CIK": 1058290,
+        "Founded": "1994"
+    },
+    "CL": {
+        "Security": "Colgate-Palmolive",
+        "GICS Sector": "Consumer Staples",
+        "GICS Sub-Industry": "Household Products",
+        "Headquarters Location": "New York City, New York",
+        "Date added": "1957-03-04",
+        "CIK": 21665,
+        "Founded": "1806"
+    }
+}

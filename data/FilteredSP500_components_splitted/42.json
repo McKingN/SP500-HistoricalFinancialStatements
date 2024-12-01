@@ -1,0 +1,74 @@
+{
+    "PRU": {
+        "Security": "Prudential Financial",
+        "GICS Sector": "Financials",
+        "GICS Sub-Industry": "Life & Health Insurance",
+        "Headquarters Location": "Newark, New Jersey",
+        "Date added": "2002-07-22",
+        "CIK": 1137774,
+        "Founded": "1875"
+    },
+    "PEG": {
+        "Security": "Public Service Enterprise Group",
+        "GICS Sector": "Utilities",
+        "GICS Sub-Industry": "Electric Utilities",
+        "Headquarters Location": "Newark, New Jersey",
+        "Date added": "1957-03-04",
+        "CIK": 788784,
+        "Founded": "1903"
+    },
+    "PSA": {
+        "Security": "Public Storage",
+        "GICS Sector": "Real Estate",
+        "GICS Sub-Industry": "Self-Storage REITs",
+        "Headquarters Location": "Glendale, California",
+        "Date added": "2005-08-19",
+        "CIK": 1393311,
+        "Founded": "1972"
+    },
+    "PHM": {
+        "Security": "PulteGroup",
+        "GICS Sector": "Consumer Discretionary",
+        "GICS Sub-Industry": "Homebuilding",
+        "Headquarters Location": "Atlanta, Georgia",
+        "Date added": "1984-04-30",
+        "CIK": 822416,
+        "Founded": "1956"
+    },
+    "QRVO": {
+        "Security": "Qorvo",
+        "GICS Sector": "Information Technology",
+        "GICS Sub-Industry": "Semiconductors",
+        "Headquarters Location": "Greensboro, North Carolina",
+        "Date added": "2015-06-11",
+        "CIK": 1604778,
+        "Founded": "2015"
+    },
+    "PWR": {
+        "Security": "Quanta Services",
+        "GICS Sector": "Industrials",
+        "GICS Sub-Industry": "Construction & Engineering",
+        "Headquarters Location": "Houston, Texas",
+        "Date added": "2009-07-01",
+        "CIK": 1050915,
+        "Founded": "1997"
+    },
+    "QCOM": {
+        "Security": "Qualcomm",
+        "GICS Sector": "Information Technology",
+        "GICS Sub-Industry": "Semiconductors",
+        "Headquarters Location": "San Diego, California",
+        "Date added": "1999-07-22",
+        "CIK": 804328,
+        "Founded": "1985"
+    },
+    "DGX": {
+        "Security": "Quest Diagnostics",
+        "GICS Sector": "Health Care",
+        "GICS Sub-Industry": "Health Care Services",
+        "Headquarters Location": "Secaucus, New Jersey",
+        "Date added": "2002-12-12",
+        "CIK": 1022079,
+        "Founded": "1967"
+    }
+}

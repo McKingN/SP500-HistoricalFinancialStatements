@@ -1,0 +1,74 @@
+{
+    "APH": {
+        "Security": "Amphenol",
+        "GICS Sector": "Information Technology",
+        "GICS Sub-Industry": "Electronic Components",
+        "Headquarters Location": "Wallingford, Connecticut",
+        "Date added": "2008-09-30",
+        "CIK": 820313,
+        "Founded": "1932"
+    },
+    "ADI": {
+        "Security": "Analog Devices",
+        "GICS Sector": "Information Technology",
+        "GICS Sub-Industry": "Semiconductors",
+        "Headquarters Location": "Wilmington, Massachusetts",
+        "Date added": "1999-10-12",
+        "CIK": 6281,
+        "Founded": "1965"
+    },
+    "ANSS": {
+        "Security": "Ansys",
+        "GICS Sector": "Information Technology",
+        "GICS Sub-Industry": "Application Software",
+        "Headquarters Location": "Canonsburg, Pennsylvania",
+        "Date added": "2017-06-19",
+        "CIK": 1013462,
+        "Founded": "1969"
+    },
+    "AON": {
+        "Security": "Aon",
+        "GICS Sector": "Financials",
+        "GICS Sub-Industry": "Insurance Brokers",
+        "Headquarters Location": "London, UK",
+        "Date added": "1996-04-23",
+        "CIK": 315293,
+        "Founded": "1982 (1919)"
+    },
+    "APA": {
+        "Security": "APA Corporation",
+        "GICS Sector": "Energy",
+        "GICS Sub-Industry": "Oil & Gas Exploration & Production",
+        "Headquarters Location": "Houston, Texas",
+        "Date added": "1997-07-28",
+        "CIK": 1841666,
+        "Founded": "1954"
+    },
+    "AAPL": {
+        "Security": "Apple Inc.",
+        "GICS Sector": "Information Technology",
+        "GICS Sub-Industry": "Technology Hardware, Storage & Peripherals",
+        "Headquarters Location": "Cupertino, California",
+        "Date added": "1982-11-30",
+        "CIK": 320193,
+        "Founded": "1977"
+    },
+    "AMAT": {
+        "Security": "Applied Materials",
+        "GICS Sector": "Information Technology",
+        "GICS Sub-Industry": "Semiconductor Materials & Equipment",
+        "Headquarters Location": "Santa Clara, California",
+        "Date added": "1995-03-16",
+        "CIK": 6951,
+        "Founded": "1967"
+    },
+    "APTV": {
+        "Security": "Aptiv",
+        "GICS Sector": "Consumer Discretionary",
+        "GICS Sub-Industry": "Automotive Parts & Equipment",
+        "Headquarters Location": "Dublin, Ireland",
+        "Date added": "2012-12-24",
+        "CIK": 1521332,
+        "Founded": "1994"
+    }
+}

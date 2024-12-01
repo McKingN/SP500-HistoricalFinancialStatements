@@ -1,0 +1,74 @@
+{
+    "BRK-B": {
+        "Security": "Berkshire Hathaway",
+        "GICS Sector": "Financials",
+        "GICS Sub-Industry": "Multi-Sector Holdings",
+        "Headquarters Location": "Omaha, Nebraska",
+        "Date added": "2010-02-16",
+        "CIK": 1067983,
+        "Founded": "1839"
+    },
+    "BBY": {
+        "Security": "Best Buy",
+        "GICS Sector": "Consumer Discretionary",
+        "GICS Sub-Industry": "Computer & Electronics Retail",
+        "Headquarters Location": "Richfield, Minnesota",
+        "Date added": "1999-06-29",
+        "CIK": 764478,
+        "Founded": "1966"
+    },
+    "BIIB": {
+        "Security": "Biogen",
+        "GICS Sector": "Health Care",
+        "GICS Sub-Industry": "Biotechnology",
+        "Headquarters Location": "Cambridge, Massachusetts",
+        "Date added": "2003-11-13",
+        "CIK": 875045,
+        "Founded": "1978"
+    },
+    "BLK": {
+        "Security": "BlackRock",
+        "GICS Sector": "Financials",
+        "GICS Sub-Industry": "Asset Management & Custody Banks",
+        "Headquarters Location": "New York City, New York",
+        "Date added": "2011-04-04",
+        "CIK": 2012383,
+        "Founded": "1988"
+    },
+    "BK": {
+        "Security": "BNY Mellon",
+        "GICS Sector": "Financials",
+        "GICS Sub-Industry": "Asset Management & Custody Banks",
+        "Headquarters Location": "New York City, New York",
+        "Date added": "1995-03-31",
+        "CIK": 1390777,
+        "Founded": "1784"
+    },
+    "BA": {
+        "Security": "Boeing",
+        "GICS Sector": "Industrials",
+        "GICS Sub-Industry": "Aerospace & Defense",
+        "Headquarters Location": "Arlington, Virginia",
+        "Date added": "1957-03-04",
+        "CIK": 12927,
+        "Founded": "1916"
+    },
+    "BKNG": {
+        "Security": "Booking Holdings",
+        "GICS Sector": "Consumer Discretionary",
+        "GICS Sub-Industry": "Hotels, Resorts & Cruise Lines",
+        "Headquarters Location": "Norwalk, Connecticut",
+        "Date added": "2009-11-06",
+        "CIK": 1075531,
+        "Founded": "1996"
+    },
+    "BWA": {
+        "Security": "BorgWarner",
+        "GICS Sector": "Consumer Discretionary",
+        "GICS Sub-Industry": "Automotive Parts & Equipment",
+        "Headquarters Location": "Auburn Hills, Michigan",
+        "Date added": "2011-12-19",
+        "CIK": 908255,
+        "Founded": "1880"
+    }
+}

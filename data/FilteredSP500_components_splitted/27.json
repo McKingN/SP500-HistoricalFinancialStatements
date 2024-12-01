@@ -1,0 +1,74 @@
+{
+    "HBAN": {
+        "Security": "Huntington Bancshares",
+        "GICS Sector": "Financials",
+        "GICS Sub-Industry": "Regional Banks",
+        "Headquarters Location": "Columbus, Ohio; Detroit, Michigan",
+        "Date added": "1997-08-28",
+        "CIK": 49196,
+        "Founded": "1866"
+    },
+    "HII": {
+        "Security": "Huntington Ingalls Industries",
+        "GICS Sector": "Industrials",
+        "GICS Sub-Industry": "Aerospace & Defense",
+        "Headquarters Location": "Newport News, Virginia",
+        "Date added": "2018-01-03",
+        "CIK": 1501585,
+        "Founded": "2011"
+    },
+    "IBM": {
+        "Security": "IBM",
+        "GICS Sector": "Information Technology",
+        "GICS Sub-Industry": "IT Consulting & Other Services",
+        "Headquarters Location": "Armonk, New York",
+        "Date added": "1957-03-04",
+        "CIK": 51143,
+        "Founded": "1911"
+    },
+    "IEX": {
+        "Security": "IDEX Corporation",
+        "GICS Sector": "Industrials",
+        "GICS Sub-Industry": "Industrial Machinery & Supplies & Components",
+        "Headquarters Location": "Lake Forest, Illinois",
+        "Date added": "2019-08-09",
+        "CIK": 832101,
+        "Founded": "1988"
+    },
+    "IDXX": {
+        "Security": "Idexx Laboratories",
+        "GICS Sector": "Health Care",
+        "GICS Sub-Industry": "Health Care Equipment",
+        "Headquarters Location": "Westbrook, Maine",
+        "Date added": "2017-01-05",
+        "CIK": 874716,
+        "Founded": "1983"
+    },
+    "ITW": {
+        "Security": "Illinois Tool Works",
+        "GICS Sector": "Industrials",
+        "GICS Sub-Industry": "Industrial Machinery & Supplies & Components",
+        "Headquarters Location": "Glenview, Illinois",
+        "Date added": "1986-02-28",
+        "CIK": 49826,
+        "Founded": "1912"
+    },
+    "INCY": {
+        "Security": "Incyte",
+        "GICS Sector": "Health Care",
+        "GICS Sub-Industry": "Biotechnology",
+        "Headquarters Location": "Wilmington, Delaware",
+        "Date added": "2017-02-28",
+        "CIK": 879169,
+        "Founded": "1991"
+    },
+    "INTC": {
+        "Security": "Intel",
+        "GICS Sector": "Information Technology",
+        "GICS Sub-Industry": "Semiconductors",
+        "Headquarters Location": "Santa Clara, California",
+        "Date added": "1976-12-31",
+        "CIK": 50863,
+        "Founded": "1968"
+    }
+}

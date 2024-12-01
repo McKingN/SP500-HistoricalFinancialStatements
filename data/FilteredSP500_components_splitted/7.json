@@ -1,0 +1,74 @@
+{
+    "AZO": {
+        "Security": "AutoZone",
+        "GICS Sector": "Consumer Discretionary",
+        "GICS Sub-Industry": "Automotive Retail",
+        "Headquarters Location": "Memphis, Tennessee",
+        "Date added": "1997-01-02",
+        "CIK": 866787,
+        "Founded": "1979"
+    },
+    "AVB": {
+        "Security": "AvalonBay Communities",
+        "GICS Sector": "Real Estate",
+        "GICS Sub-Industry": "Multi-Family Residential REITs",
+        "Headquarters Location": "Arlington, Virginia",
+        "Date added": "2007-01-10",
+        "CIK": 915912,
+        "Founded": "1978"
+    },
+    "AVY": {
+        "Security": "Avery Dennison",
+        "GICS Sector": "Materials",
+        "GICS Sub-Industry": "Paper & Plastic Packaging Products & Materials",
+        "Headquarters Location": "Mentor, Ohio",
+        "Date added": "1987-12-31",
+        "CIK": 8818,
+        "Founded": "1990"
+    },
+    "BKR": {
+        "Security": "Baker Hughes",
+        "GICS Sector": "Energy",
+        "GICS Sub-Industry": "Oil & Gas Equipment & Services",
+        "Headquarters Location": "Houston, Texas",
+        "Date added": "2017-07-07",
+        "CIK": 1701605,
+        "Founded": "2017"
+    },
+    "BALL": {
+        "Security": "Ball Corporation",
+        "GICS Sector": "Materials",
+        "GICS Sub-Industry": "Metal, Glass & Plastic Containers",
+        "Headquarters Location": "Broomfield, Colorado",
+        "Date added": "1984-10-31",
+        "CIK": 9389,
+        "Founded": "1880"
+    },
+    "BAC": {
+        "Security": "Bank of America",
+        "GICS Sector": "Financials",
+        "GICS Sub-Industry": "Diversified Banks",
+        "Headquarters Location": "Charlotte, North Carolina",
+        "Date added": "1976-06-30",
+        "CIK": 70858,
+        "Founded": "1998 (1923 / 1874)"
+    },
+    "BAX": {
+        "Security": "Baxter International",
+        "GICS Sector": "Health Care",
+        "GICS Sub-Industry": "Health Care Equipment",
+        "Headquarters Location": "Deerfield, Illinois",
+        "Date added": "1972-09-30",
+        "CIK": 10456,
+        "Founded": "1931"
+    },
+    "BDX": {
+        "Security": "Becton Dickinson",
+        "GICS Sector": "Health Care",
+        "GICS Sub-Industry": "Health Care Equipment",
+        "Headquarters Location": "Franklin Lakes, New Jersey",
+        "Date added": "1972-09-30",
+        "CIK": 10795,
+        "Founded": "1897"
+    }
+}

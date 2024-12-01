@@ -1,0 +1,74 @@
+{
+    "HOLX": {
+        "Security": "Hologic",
+        "GICS Sector": "Health Care",
+        "GICS Sub-Industry": "Health Care Equipment",
+        "Headquarters Location": "Marlborough, Massachusetts",
+        "Date added": "2016-03-30",
+        "CIK": 859737,
+        "Founded": "1985"
+    },
+    "HD": {
+        "Security": "Home Depot (The)",
+        "GICS Sector": "Consumer Discretionary",
+        "GICS Sub-Industry": "Home Improvement Retail",
+        "Headquarters Location": "Atlanta, Georgia",
+        "Date added": "1988-03-31",
+        "CIK": 354950,
+        "Founded": "1978"
+    },
+    "HON": {
+        "Security": "Honeywell",
+        "GICS Sector": "Industrials",
+        "GICS Sub-Industry": "Industrial Conglomerates",
+        "Headquarters Location": "Charlotte, North Carolina",
+        "Date added": "1957-03-04",
+        "CIK": 773840,
+        "Founded": "1906"
+    },
+    "HRL": {
+        "Security": "Hormel Foods",
+        "GICS Sector": "Consumer Staples",
+        "GICS Sub-Industry": "Packaged Foods & Meats",
+        "Headquarters Location": "Austin, Minnesota",
+        "Date added": "2009-03-04",
+        "CIK": 48465,
+        "Founded": "1891"
+    },
+    "HST": {
+        "Security": "Host Hotels & Resorts",
+        "GICS Sector": "Real Estate",
+        "GICS Sub-Industry": "Hotel & Resort REITs",
+        "Headquarters Location": "Bethesda, Maryland",
+        "Date added": "2007-03-20",
+        "CIK": 1070750,
+        "Founded": "1993"
+    },
+    "HWM": {
+        "Security": "Howmet Aerospace",
+        "GICS Sector": "Industrials",
+        "GICS Sub-Industry": "Aerospace & Defense",
+        "Headquarters Location": "Pittsburgh, Pennsylvania",
+        "Date added": "2016-10-21",
+        "CIK": 4281,
+        "Founded": "1888"
+    },
+    "HPQ": {
+        "Security": "HP Inc.",
+        "GICS Sector": "Information Technology",
+        "GICS Sub-Industry": "Technology Hardware, Storage & Peripherals",
+        "Headquarters Location": "Palo Alto, California",
+        "Date added": "1974-12-31",
+        "CIK": 47217,
+        "Founded": "1939 (2015)"
+    },
+    "HUM": {
+        "Security": "Humana",
+        "GICS Sector": "Health Care",
+        "GICS Sub-Industry": "Managed Health Care",
+        "Headquarters Location": "Louisville, Kentucky",
+        "Date added": "2012-12-10",
+        "CIK": 49071,
+        "Founded": "1961"
+    }
+}

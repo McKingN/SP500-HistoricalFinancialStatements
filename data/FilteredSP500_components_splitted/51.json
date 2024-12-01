@@ -1,0 +1,74 @@
+{
+    "VTR": {
+        "Security": "Ventas",
+        "GICS Sector": "Real Estate",
+        "GICS Sub-Industry": "Health Care REITs",
+        "Headquarters Location": "Chicago, Illinois",
+        "Date added": "2009-03-04",
+        "CIK": 740260,
+        "Founded": "1998"
+    },
+    "VRSN": {
+        "Security": "Verisign",
+        "GICS Sector": "Information Technology",
+        "GICS Sub-Industry": "Internet Services & Infrastructure",
+        "Headquarters Location": "Dulles, Virginia",
+        "Date added": "2006-02-01",
+        "CIK": 1014473,
+        "Founded": "1995"
+    },
+    "VRSK": {
+        "Security": "Verisk Analytics",
+        "GICS Sector": "Industrials",
+        "GICS Sub-Industry": "Research & Consulting Services",
+        "Headquarters Location": "Jersey City, New Jersey",
+        "Date added": "2015-10-08",
+        "CIK": 1442145,
+        "Founded": "1971"
+    },
+    "VZ": {
+        "Security": "Verizon",
+        "GICS Sector": "Communication Services",
+        "GICS Sub-Industry": "Integrated Telecommunication Services",
+        "Headquarters Location": "New York City, New York",
+        "Date added": "1983-11-30",
+        "CIK": 732712,
+        "Founded": "1983 (1877)"
+    },
+    "VRTX": {
+        "Security": "Vertex Pharmaceuticals",
+        "GICS Sector": "Health Care",
+        "GICS Sub-Industry": "Biotechnology",
+        "Headquarters Location": "Boston, Massachusetts",
+        "Date added": "2013-09-23",
+        "CIK": 875320,
+        "Founded": "1989"
+    },
+    "VTRS": {
+        "Security": "Viatris",
+        "GICS Sector": "Health Care",
+        "GICS Sub-Industry": "Pharmaceuticals",
+        "Headquarters Location": "Pittsburgh, Pennsylvania",
+        "Date added": "2004-04-23",
+        "CIK": 1792044,
+        "Founded": "1961"
+    },
+    "V": {
+        "Security": "Visa Inc.",
+        "GICS Sector": "Financials",
+        "GICS Sub-Industry": "Transaction & Payment Processing Services",
+        "Headquarters Location": "San Francisco, California",
+        "Date added": "2009-12-21",
+        "CIK": 1403161,
+        "Founded": "1958"
+    },
+    "VMC": {
+        "Security": "Vulcan Materials Company",
+        "GICS Sector": "Materials",
+        "GICS Sub-Industry": "Construction Materials",
+        "Headquarters Location": "Birmingham, Alabama",
+        "Date added": "1999-06-30",
+        "CIK": 1396009,
+        "Founded": "1909"
+    }
+}

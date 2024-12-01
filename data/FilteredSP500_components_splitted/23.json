@@ -1,0 +1,74 @@
+{
+    "BEN": {
+        "Security": "Franklin Resources",
+        "GICS Sector": "Financials",
+        "GICS Sub-Industry": "Asset Management & Custody Banks",
+        "Headquarters Location": "San Mateo, California",
+        "Date added": "1998-04-30",
+        "CIK": 38777,
+        "Founded": "1947"
+    },
+    "FCX": {
+        "Security": "Freeport-McMoRan",
+        "GICS Sector": "Materials",
+        "GICS Sub-Industry": "Copper",
+        "Headquarters Location": "Phoenix, Arizona",
+        "Date added": "2011-07-01",
+        "CIK": 831259,
+        "Founded": "1912"
+    },
+    "GRMN": {
+        "Security": "Garmin",
+        "GICS Sector": "Consumer Discretionary",
+        "GICS Sub-Industry": "Consumer Electronics",
+        "Headquarters Location": "Schaffhausen, Switzerland",
+        "Date added": "2012-12-12",
+        "CIK": 1121788,
+        "Founded": "1989"
+    },
+    "IT": {
+        "Security": "Gartner",
+        "GICS Sector": "Information Technology",
+        "GICS Sub-Industry": "IT Consulting & Other Services",
+        "Headquarters Location": "Stamford, Connecticut",
+        "Date added": "2017-04-05",
+        "CIK": 749251,
+        "Founded": "1979"
+    },
+    "GE": {
+        "Security": "GE Aerospace",
+        "GICS Sector": "Industrials",
+        "GICS Sub-Industry": "Aerospace & Defense",
+        "Headquarters Location": "Evendale, Ohio",
+        "Date added": "1957-03-04",
+        "CIK": 40545,
+        "Founded": "1892"
+    },
+    "GEN": {
+        "Security": "Gen Digital",
+        "GICS Sector": "Information Technology",
+        "GICS Sub-Industry": "Systems Software",
+        "Headquarters Location": "Tempe, Arizona",
+        "Date added": "2003-03-25",
+        "CIK": 849399,
+        "Founded": "1982"
+    },
+    "GD": {
+        "Security": "General Dynamics",
+        "GICS Sector": "Industrials",
+        "GICS Sub-Industry": "Aerospace & Defense",
+        "Headquarters Location": "Falls Church, Virginia",
+        "Date added": "1957-03-04",
+        "CIK": 40533,
+        "Founded": "1899"
+    },
+    "GIS": {
+        "Security": "General Mills",
+        "GICS Sector": "Consumer Staples",
+        "GICS Sub-Industry": "Packaged Foods & Meats",
+        "Headquarters Location": "Golden Valley, Minnesota",
+        "Date added": "1957-03-04",
+        "CIK": 40704,
+        "Founded": "1856"
+    }
+}

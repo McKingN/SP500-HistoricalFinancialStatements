@@ -1,0 +1,74 @@
+{
+    "NTRS": {
+        "Security": "Northern Trust",
+        "GICS Sector": "Financials",
+        "GICS Sub-Industry": "Asset Management & Custody Banks",
+        "Headquarters Location": "Chicago, Illinois",
+        "Date added": "1998-01-30",
+        "CIK": 73124,
+        "Founded": "1889"
+    },
+    "NOC": {
+        "Security": "Northrop Grumman",
+        "GICS Sector": "Industrials",
+        "GICS Sub-Industry": "Aerospace & Defense",
+        "Headquarters Location": "West Falls Church, Virginia",
+        "Date added": "1957-03-04",
+        "CIK": 1133421,
+        "Founded": "1994 (Northrop 1939, Grumman 1930)"
+    },
+    "NCLH": {
+        "Security": "Norwegian Cruise Line Holdings",
+        "GICS Sector": "Consumer Discretionary",
+        "GICS Sub-Industry": "Hotels, Resorts & Cruise Lines",
+        "Headquarters Location": "Miami, Florida",
+        "Date added": "2017-10-13",
+        "CIK": 1513761,
+        "Founded": "2011 (1966)"
+    },
+    "NRG": {
+        "Security": "NRG Energy",
+        "GICS Sector": "Utilities",
+        "GICS Sub-Industry": "Independent Power Producers & Energy Traders",
+        "Headquarters Location": "Houston, Texas",
+        "Date added": "2010-01-29",
+        "CIK": 1013871,
+        "Founded": "1992"
+    },
+    "NUE": {
+        "Security": "Nucor",
+        "GICS Sector": "Materials",
+        "GICS Sub-Industry": "Steel",
+        "Headquarters Location": "Charlotte, North Carolina",
+        "Date added": "1985-04-30",
+        "CIK": 73309,
+        "Founded": "1940"
+    },
+    "NVDA": {
+        "Security": "Nvidia",
+        "GICS Sector": "Information Technology",
+        "GICS Sub-Industry": "Semiconductors",
+        "Headquarters Location": "Santa Clara, California",
+        "Date added": "2001-11-30",
+        "CIK": 1045810,
+        "Founded": "1993"
+    },
+    "NVR": {
+        "Security": "NVR, Inc.",
+        "GICS Sector": "Consumer Discretionary",
+        "GICS Sub-Industry": "Homebuilding",
+        "Headquarters Location": "Reston, Virginia",
+        "Date added": "2019-09-26",
+        "CIK": 906163,
+        "Founded": "1980"
+    },
+    "ORLY": {
+        "Security": "O'Reilly Auto Parts",
+        "GICS Sector": "Consumer Discretionary",
+        "GICS Sub-Industry": "Automotive Retail",
+        "Headquarters Location": "Springfield, Missouri",
+        "Date added": "2009-03-27",
+        "CIK": 898173,
+        "Founded": "1957"
+    }
+}
